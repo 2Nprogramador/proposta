@@ -1,0 +1,1001 @@
+Invoice ID,City,Customer type,Gender,Product line,Unit price,Quantity,Total,Time,Payment,Rating,Data
+750-67-8428,Rio de Janeiro,Membro,Mulher,Saude e Beleza,74.69,7,522.83,13:08,Pix,9.1,2025-01-01
+226-31-3081,São Paulo,Normal,Mulher,Acessorios Eletronicos,15.28,5,76.4,10:29,Debito,9.6,2025-01-01
+631-41-3108,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,46.33,7,324.31,13:23,Cartao de Credito,7.4,2025-01-01
+123-19-1176,Rio de Janeiro,Membro,Homem,Saude e Beleza,58.22,8,465.76,20:33,Pix,8.4,2025-01-01
+373-73-7910,Rio de Janeiro,Normal,Homem,Esportes e Viagens,86.31,7,604.17,10:37,Pix,5.3,2025-01-01
+699-14-3026,São Paulo,Normal,Homem,Acessorios Eletronicos,85.39,7,597.73,18:30,Pix,4.1,2025-01-01
+355-53-5943,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,68.84,6,413.04,14:36,Pix,5.8,2025-01-01
+315-22-5665,São Paulo,Normal,Mulher,Casa e Estilo de Vida,73.56,10,735.6,11:38,Pix,8.0,2025-01-01
+665-32-9167,Rio de Janeiro,Membro,Mulher,Saude e Beleza,36.26,2,72.52,17:15,Cartao de Credito,7.2,2025-01-01
+692-92-5582,Manaus,Membro,Mulher,Alimentos e Bebidas,54.84,3,164.52,13:27,Cartao de Credito,5.9,2025-01-01
+351-62-0822,Manaus,Membro,Mulher,Moda,14.48,4,57.92,18:07,Pix,4.5,2025-01-01
+529-56-3974,Manaus,Membro,Homem,Acessorios Eletronicos,25.51,4,102.04,17:03,Debito,6.8,2025-01-01
+365-64-0515,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,46.95,5,234.75,10:25,Pix,7.1,2025-01-01
+252-56-2699,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,43.19,10,431.9,16:48,Pix,8.2,2025-01-01
+829-34-3910,Rio de Janeiro,Normal,Mulher,Saude e Beleza,71.38,10,713.8,19:21,Debito,5.7,2025-01-01
+299-46-1805,Manaus,Membro,Mulher,Esportes e Viagens,93.72,6,562.32,16:19,Debito,4.5,2025-01-01
+656-95-9349,Rio de Janeiro,Membro,Mulher,Saude e Beleza,68.93,7,482.51,11:03,Cartao de Credito,4.6,2025-01-01
+765-26-6951,Rio de Janeiro,Normal,Homem,Esportes e Viagens,72.61,6,435.66,10:39,Cartao de Credito,6.9,2025-01-01
+329-62-1586,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,54.67,3,164.01,18:00,Cartao de Credito,8.6,2025-01-01
+319-50-3348,Manaus,Normal,Mulher,Casa e Estilo de Vida,40.3,2,80.6,15:30,Pix,4.4,2025-01-01
+300-71-4605,São Paulo,Membro,Homem,Acessorios Eletronicos,86.04,5,430.2,11:24,Pix,4.8,2025-01-01
+371-85-5789,Manaus,Normal,Homem,Saude e Beleza,87.98,3,263.94,10:40,Pix,5.1,2025-01-01
+273-16-6619,Manaus,Normal,Homem,Casa e Estilo de Vida,33.2,2,66.4,12:20,Cartao de Credito,4.4,2025-01-01
+636-48-8204,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,34.56,5,172.8,11:15,Pix,9.9,2025-01-01
+549-59-1358,Rio de Janeiro,Membro,Homem,Esportes e Viagens,88.63,3,265.89,17:36,Pix,6.0,2025-01-01
+227-03-5010,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,52.59,8,420.72,19:20,Cartao de Credito,8.5,2025-01-01
+649-29-6775,Manaus,Normal,Homem,Moda,33.52,1,33.52,15:31,Debito,6.7,2025-01-01
+189-17-4241,Rio de Janeiro,Normal,Mulher,Moda,87.67,2,175.34,12:17,Cartao de Credito,7.7,2025-01-01
+145-94-9061,Manaus,Normal,Mulher,Alimentos e Bebidas,88.36,5,441.8,19:48,Debito,9.6,2025-01-01
+848-62-7243,Rio de Janeiro,Normal,Homem,Saude e Beleza,24.89,9,224.01,15:36,Debito,7.4,2025-01-01
+871-79-8483,Manaus,Normal,Homem,Moda,94.13,5,470.65,19:39,Cartao de Credito,4.8,2025-01-01
+149-71-6266,Manaus,Membro,Homem,Esportes e Viagens,78.07,9,702.63,12:43,Debito,4.5,2025-01-01
+640-49-2076,Manaus,Normal,Homem,Esportes e Viagens,83.78,8,670.24,14:49,Debito,5.1,2025-01-01
+595-11-5460,Rio de Janeiro,Normal,Homem,Saude e Beleza,96.58,2,193.16,10:12,Cartao de Credito,5.1,2025-01-01
+183-56-6882,São Paulo,Membro,Mulher,Alimentos e Bebidas,99.42,4,397.68,10:42,Pix,7.5,2025-01-01
+232-16-2483,São Paulo,Membro,Mulher,Esportes e Viagens,68.12,1,68.12,12:28,Pix,6.8,2025-01-01
+129-29-8530,Rio de Janeiro,Membro,Homem,Esportes e Viagens,62.62,5,313.1,19:15,Pix,7.0,2025-01-01
+272-65-1806,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,60.88,9,547.92,17:17,Pix,4.7,2025-01-01
+333-73-7901,São Paulo,Normal,Mulher,Saude e Beleza,54.92,8,439.36,13:24,Pix,7.6,2025-01-01
+777-82-7220,Manaus,Membro,Homem,Casa e Estilo de Vida,30.12,8,240.96,13:01,Debito,7.7,2025-01-01
+280-35-5823,Manaus,Membro,Mulher,Casa e Estilo de Vida,86.72,1,86.72,18:45,Pix,7.9,2025-01-01
+554-53-8700,São Paulo,Membro,Homem,Casa e Estilo de Vida,56.11,2,112.22,10:11,Debito,6.3,2025-01-01
+354-25-5821,Manaus,Membro,Mulher,Esportes e Viagens,69.12,6,414.72,13:03,Debito,5.6,2025-01-01
+228-96-1411,São Paulo,Membro,Mulher,Alimentos e Bebidas,98.7,8,789.6,20:39,Debito,7.6,2025-01-01
+617-15-4209,São Paulo,Membro,Homem,Saude e Beleza,15.37,2,30.74,19:47,Debito,7.2,2025-01-01
+132-32-9879,Manaus,Membro,Mulher,Acessorios Eletronicos,93.96,4,375.84,18:00,Debito,9.5,2025-01-01
+370-41-7321,Manaus,Membro,Homem,Saude e Beleza,56.69,9,510.21,17:24,Cartao de Credito,8.4,2025-01-01
+727-46-3608,Manaus,Membro,Mulher,Alimentos e Bebidas,20.01,9,180.09,15:47,Pix,4.1,2025-01-01
+669-54-1719,Manaus,Membro,Homem,Acessorios Eletronicos,18.93,6,113.58,12:45,Cartao de Credito,8.1,2025-01-01
+574-22-5561,São Paulo,Membro,Mulher,Moda,82.63,10,826.3,17:08,Pix,7.9,2025-01-01
+326-78-5178,São Paulo,Membro,Homem,Alimentos e Bebidas,91.4,7,639.8,10:19,Debito,9.5,2025-01-01
+162-48-8011,Rio de Janeiro,Membro,Mulher,Alimentos e Bebidas,44.59,5,222.95,15:10,Debito,8.5,2025-01-01
+616-24-2851,Manaus,Membro,Mulher,Moda,17.87,4,71.48,14:42,Pix,6.5,2025-01-01
+778-71-5554,São Paulo,Membro,Homem,Moda,15.43,1,15.43,15:46,Cartao de Credito,6.1,2025-01-01
+242-55-6721,Manaus,Normal,Homem,Casa e Estilo de Vida,16.16,2,32.32,11:49,Pix,6.5,2025-01-01
+399-46-5918,São Paulo,Normal,Mulher,Acessorios Eletronicos,85.98,8,687.84,19:01,Debito,8.2,2025-01-01
+106-35-6779,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,44.34,2,88.68,11:26,Debito,5.8,2025-01-01
+635-40-6220,Rio de Janeiro,Normal,Homem,Saude e Beleza,89.6,8,716.8,11:28,Pix,6.6,2025-01-01
+817-48-8732,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,72.35,10,723.5,15:55,Debito,5.4,2025-01-01
+120-06-4233,São Paulo,Normal,Homem,Acessorios Eletronicos,30.61,6,183.66,20:36,Debito,9.3,2025-01-01
+285-68-5083,São Paulo,Membro,Mulher,Esportes e Viagens,24.74,3,74.22,17:47,Cartao de Credito,10.0,2025-01-01
+803-83-5989,São Paulo,Normal,Homem,Casa e Estilo de Vida,55.73,6,334.38,10:55,Pix,7.0,2025-01-01
+347-34-2234,Manaus,Membro,Mulher,Esportes e Viagens,55.07,9,495.63,13:40,Pix,10.0,2025-01-01
+199-75-8169,Rio de Janeiro,Membro,Homem,Esportes e Viagens,15.81,10,158.1,12:27,Cartao de Credito,8.6,2025-01-01
+853-23-2453,Manaus,Membro,Homem,Saude e Beleza,75.74,4,302.96,14:35,Debito,7.6,2025-01-01
+877-22-3308,Rio de Janeiro,Membro,Homem,Saude e Beleza,15.87,10,158.7,16:40,Debito,5.8,2025-01-01
+838-78-4295,São Paulo,Normal,Mulher,Saude e Beleza,33.47,2,66.94,15:43,Pix,6.7,2025-01-01
+109-28-2512,Manaus,Membro,Mulher,Moda,97.61,6,585.66,15:01,Pix,9.9,2025-01-01
+232-11-3025,Rio de Janeiro,Normal,Homem,Esportes e Viagens,78.77,10,787.7,10:04,Debito,6.4,2025-01-01
+382-03-4532,Rio de Janeiro,Membro,Mulher,Saude e Beleza,18.33,1,18.33,18:50,Debito,4.3,2025-01-01
+393-65-2792,São Paulo,Normal,Homem,Alimentos e Bebidas,89.48,10,894.8,12:46,Cartao de Credito,9.6,2025-01-01
+796-12-2025,São Paulo,Normal,Homem,Moda,62.12,10,621.2,16:19,Debito,5.9,2025-01-01
+510-95-6347,Manaus,Membro,Mulher,Alimentos e Bebidas,48.52,3,145.56,18:17,Pix,4.0,2025-01-01
+841-35-6630,São Paulo,Normal,Mulher,Acessorios Eletronicos,75.91,6,455.46,18:21,Debito,8.7,2025-01-01
+287-21-9091,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,74.67,9,672.03,10:55,Pix,9.4,2025-01-01
+732-94-0499,São Paulo,Normal,Mulher,Acessorios Eletronicos,41.65,10,416.5,17:04,Cartao de Credito,5.4,2025-01-01
+263-10-3913,São Paulo,Membro,Homem,Moda,49.04,9,441.36,14:20,Cartao de Credito,8.6,2025-01-01
+381-20-0914,Rio de Janeiro,Membro,Mulher,Moda,20.01,9,180.09,15:48,Cartao de Credito,5.7,2025-01-01
+829-49-1914,São Paulo,Membro,Mulher,Alimentos e Bebidas,78.31,10,783.1,16:24,Pix,6.6,2025-01-01
+756-01-7507,São Paulo,Normal,Mulher,Saude e Beleza,20.38,5,101.9,18:56,Debito,6.0,2025-01-01
+870-72-4431,São Paulo,Normal,Mulher,Saude e Beleza,99.19,6,595.14,14:42,Cartao de Credito,5.5,2025-01-01
+847-38-7188,Manaus,Normal,Mulher,Alimentos e Bebidas,96.68,3,290.04,19:56,Pix,6.4,2025-01-01
+480-63-2856,São Paulo,Normal,Homem,Alimentos e Bebidas,19.25,8,154.0,18:37,Pix,6.6,2025-01-01
+787-56-0757,São Paulo,Membro,Mulher,Alimentos e Bebidas,80.36,4,321.44,18:45,Cartao de Credito,8.3,2025-01-01
+360-39-5055,São Paulo,Membro,Homem,Esportes e Viagens,48.91,5,244.55,10:17,Debito,6.6,2025-01-01
+730-50-9884,São Paulo,Normal,Mulher,Esportes e Viagens,83.06,7,581.42,14:31,Pix,4.0,2025-01-01
+362-58-8315,São Paulo,Normal,Homem,Moda,76.52,5,382.6,10:23,Debito,9.9,2025-01-01
+633-44-8566,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,49.38,7,345.66,20:35,Cartao de Credito,7.3,2025-01-01
+504-35-8843,Rio de Janeiro,Normal,Homem,Esportes e Viagens,42.47,1,42.47,16:57,Debito,5.7,2025-01-01
+318-68-5053,Manaus,Normal,Mulher,Saude e Beleza,76.99,6,461.94,17:55,Debito,6.1,2025-01-01
+565-80-5980,São Paulo,Membro,Mulher,Casa e Estilo de Vida,47.38,4,189.52,10:25,Debito,7.1,2025-01-01
+225-32-0908,São Paulo,Normal,Mulher,Esportes e Viagens,44.86,10,448.6,19:54,Pix,8.2,2025-01-01
+873-51-0671,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,21.98,7,153.86,16:42,Pix,5.1,2025-01-01
+152-08-9985,Manaus,Membro,Homem,Saude e Beleza,64.36,9,579.24,12:09,Cartao de Credito,8.6,2025-01-01
+512-91-0811,São Paulo,Normal,Homem,Saude e Beleza,89.75,1,89.75,20:05,Cartao de Credito,6.6,2025-01-01
+594-34-4444,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,97.16,1,97.16,20:38,Pix,7.2,2025-01-01
+766-85-7061,Manaus,Normal,Homem,Saude e Beleza,87.87,10,878.7,10:25,Pix,5.1,2025-01-01
+871-39-9221,São Paulo,Normal,Mulher,Acessorios Eletronicos,12.45,6,74.7,13:11,Debito,4.1,2025-01-01
+865-92-6136,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,52.75,3,158.25,10:16,Pix,9.3,2025-01-01
+733-01-9107,Manaus,Normal,Homem,Casa e Estilo de Vida,82.7,6,496.2,18:14,Debito,7.4,2025-01-01
+163-56-7055,São Paulo,Membro,Homem,Moda,48.71,1,48.71,19:20,Debito,4.1,2025-01-01
+189-98-2939,São Paulo,Normal,Homem,Moda,78.55,9,706.95,13:22,Debito,7.2,2025-01-01
+551-21-3069,São Paulo,Normal,Mulher,Acessorios Eletronicos,23.07,9,207.63,11:27,Debito,4.9,2025-01-01
+212-62-1842,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,58.26,6,349.56,16:44,Debito,9.9,2025-01-01
+716-39-1409,Manaus,Normal,Homem,Saude e Beleza,30.35,7,212.45,18:19,Debito,8.0,2025-01-01
+704-48-3927,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,88.67,10,886.7,14:50,Pix,7.3,2025-01-01
+628-34-3388,São Paulo,Normal,Homem,Moda,27.38,6,164.28,20:54,Cartao de Credito,7.9,2025-01-01
+630-74-5166,Rio de Janeiro,Normal,Homem,Esportes e Viagens,62.13,6,372.78,20:19,Debito,7.4,2025-01-01
+588-01-7461,São Paulo,Normal,Mulher,Alimentos e Bebidas,33.98,9,305.82,10:43,Debito,4.2,2025-01-01
+861-77-0145,São Paulo,Membro,Homem,Acessorios Eletronicos,81.97,10,819.7,14:30,Debito,9.2,2025-01-01
+479-26-8945,Manaus,Membro,Mulher,Esportes e Viagens,16.49,2,32.98,11:32,Pix,4.6,2025-01-01
+210-67-5886,São Paulo,Membro,Mulher,Saude e Beleza,98.21,3,294.63,10:41,Cartao de Credito,7.8,2025-01-01
+227-78-1148,Manaus,Normal,Mulher,Moda,72.84,7,509.88,12:44,Debito,8.4,2025-01-01
+645-44-1170,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,58.07,9,522.63,20:07,Pix,4.3,2025-01-01
+237-01-6122,São Paulo,Membro,Mulher,Casa e Estilo de Vida,80.79,9,727.11,20:31,Cartao de Credito,9.5,2025-01-01
+225-98-1496,São Paulo,Normal,Mulher,Moda,27.02,3,81.06,13:01,Cartao de Credito,7.1,2025-01-01
+291-32-1427,Manaus,Membro,Homem,Moda,21.94,5,109.7,12:29,Pix,5.3,2025-01-01
+659-65-8956,Manaus,Membro,Homem,Moda,51.36,1,51.36,15:26,Pix,5.2,2025-01-01
+642-32-2990,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,10.96,10,109.6,20:48,Pix,6.0,2025-01-01
+378-24-2715,Manaus,Normal,Homem,Casa e Estilo de Vida,53.44,2,106.88,20:38,Pix,4.1,2025-01-01
+638-60-7125,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,99.56,8,796.48,17:03,Cartao de Credito,5.2,2025-01-01
+659-36-1684,São Paulo,Membro,Homem,Esportes e Viagens,57.12,7,399.84,12:02,Cartao de Credito,6.5,2025-01-01
+219-22-9386,Manaus,Membro,Homem,Esportes e Viagens,99.96,9,899.64,17:26,Cartao de Credito,4.2,2025-01-01
+336-78-2147,São Paulo,Membro,Homem,Casa e Estilo de Vida,63.91,8,511.28,19:52,Cartao de Credito,4.6,2025-01-01
+268-27-6179,Manaus,Membro,Mulher,Moda,56.47,8,451.76,14:57,Pix,7.3,2025-01-01
+668-90-8900,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,93.69,7,655.83,18:44,Cartao de Credito,4.5,2025-01-01
+870-54-3162,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,32.25,5,161.25,13:26,Debito,9.0,2025-01-01
+189-08-9157,São Paulo,Normal,Mulher,Moda,31.73,9,285.57,16:17,Cartao de Credito,5.9,2025-01-01
+663-86-9076,São Paulo,Membro,Mulher,Alimentos e Bebidas,68.54,8,548.32,15:57,Pix,8.5,2025-01-01
+549-84-7482,Manaus,Normal,Mulher,Esportes e Viagens,90.28,9,812.52,11:15,Pix,7.2,2025-01-01
+191-10-6171,Manaus,Normal,Mulher,Moda,39.62,7,277.34,13:18,Debito,7.5,2025-01-01
+802-70-5316,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,92.13,6,552.78,20:34,Debito,8.3,2025-01-01
+695-51-0018,Manaus,Normal,Mulher,Esportes e Viagens,34.84,4,139.36,18:36,Debito,7.4,2025-01-01
+590-83-4591,Manaus,Membro,Homem,Acessorios Eletronicos,87.45,6,524.7,14:40,Cartao de Credito,8.8,2025-01-01
+483-71-1164,São Paulo,Normal,Mulher,Saude e Beleza,81.3,6,487.8,16:43,Pix,5.3,2025-01-01
+597-78-7908,São Paulo,Normal,Homem,Moda,90.22,3,270.66,19:39,Debito,6.2,2025-01-01
+700-81-1757,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,26.31,5,131.55,20:59,Cartao de Credito,8.8,2025-01-01
+354-39-5160,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,34.42,6,206.52,15:39,Debito,9.8,2025-01-01
+241-72-9525,Manaus,Normal,Homem,Esportes e Viagens,51.91,10,519.1,12:21,Debito,8.2,2025-01-01
+575-30-8091,Rio de Janeiro,Normal,Homem,Esportes e Viagens,72.5,8,580.0,19:25,Pix,9.2,2025-01-01
+731-81-9469,São Paulo,Membro,Mulher,Esportes e Viagens,89.8,10,898.0,13:00,Cartao de Credito,5.4,2025-01-01
+280-17-4359,São Paulo,Membro,Homem,Saude e Beleza,90.5,10,905.0,13:48,Debito,8.1,2025-01-01
+338-65-2210,São Paulo,Membro,Mulher,Saude e Beleza,68.6,10,686.0,19:57,Debito,9.1,2025-01-01
+488-25-4221,São Paulo,Membro,Mulher,Alimentos e Bebidas,30.41,1,30.41,10:36,Cartao de Credito,8.4,2025-01-01
+239-10-7476,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,77.95,6,467.7,16:37,Pix,8.0,2025-01-01
+458-41-1477,São Paulo,Normal,Mulher,Saude e Beleza,46.26,6,277.56,17:11,Cartao de Credito,9.5,2025-01-01
+685-64-1609,Rio de Janeiro,Membro,Mulher,Moda,30.14,10,301.4,12:28,Pix,9.2,2025-01-01
+568-90-5112,São Paulo,Normal,Homem,Saude e Beleza,66.14,4,264.56,12:46,Cartao de Credito,5.6,2025-01-01
+262-47-2794,Manaus,Membro,Homem,Casa e Estilo de Vida,71.86,8,574.88,15:07,Cartao de Credito,6.2,2025-01-01
+238-49-0436,Rio de Janeiro,Normal,Homem,Saude e Beleza,32.46,8,259.68,13:48,Cartao de Credito,4.9,2025-01-01
+608-96-3517,Manaus,Membro,Mulher,Moda,91.54,4,366.16,19:20,Cartao de Credito,4.8,2025-01-01
+584-86-7256,São Paulo,Membro,Homem,Esportes e Viagens,34.56,7,241.92,16:07,Cartao de Credito,7.3,2025-01-01
+746-94-0204,Rio de Janeiro,Normal,Homem,Moda,83.24,9,749.16,11:56,Cartao de Credito,7.4,2025-01-01
+214-17-6927,São Paulo,Normal,Mulher,Alimentos e Bebidas,16.48,6,98.88,18:23,Pix,9.9,2025-01-01
+400-89-4171,São Paulo,Normal,Mulher,Esportes e Viagens,80.97,8,647.76,13:05,Debito,9.3,2025-01-01
+782-95-9291,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,92.29,5,461.45,15:55,Cartao de Credito,9.0,2025-01-01
+279-74-2924,Manaus,Membro,Homem,Acessorios Eletronicos,72.17,1,72.17,19:40,Debito,6.1,2025-01-01
+307-85-2293,Manaus,Normal,Homem,Casa e Estilo de Vida,50.28,5,251.4,13:58,Pix,9.7,2025-01-01
+743-04-1105,Manaus,Membro,Homem,Saude e Beleza,97.22,9,874.98,14:43,Pix,6.0,2025-01-01
+423-57-2993,Manaus,Normal,Homem,Esportes e Viagens,93.39,6,560.34,19:18,Pix,10.0,2025-01-01
+894-41-5205,São Paulo,Normal,Mulher,Alimentos e Bebidas,43.18,8,345.44,19:39,Cartao de Credito,8.3,2025-01-01
+275-28-0149,Rio de Janeiro,Normal,Homem,Esportes e Viagens,63.69,1,63.69,16:21,Debito,6.0,2025-01-01
+101-17-6199,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,45.79,7,320.53,19:44,Cartao de Credito,7.0,2025-01-01
+423-80-0988,São Paulo,Normal,Homem,Esportes e Viagens,76.4,2,152.8,19:42,Pix,6.5,2025-01-01
+548-46-9322,Manaus,Normal,Homem,Alimentos e Bebidas,39.9,10,399.0,15:24,Cartao de Credito,5.9,2025-01-01
+505-02-0892,Manaus,Membro,Homem,Saude e Beleza,42.57,8,340.56,14:12,Pix,5.6,2025-01-01
+234-65-2137,São Paulo,Normal,Homem,Casa e Estilo de Vida,95.58,10,955.8,13:32,Debito,4.8,2025-01-01
+687-47-8271,Rio de Janeiro,Normal,Homem,Moda,98.98,10,989.8,16:20,Cartao de Credito,8.7,2025-01-01
+796-32-9050,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,51.28,6,307.68,16:31,Debito,6.5,2025-01-01
+105-31-1824,Rio de Janeiro,Membro,Homem,Esportes e Viagens,69.52,7,486.64,15:10,Cartao de Credito,8.5,2025-01-01
+249-42-3782,Rio de Janeiro,Normal,Homem,Saude e Beleza,70.01,5,350.05,11:36,Pix,5.5,2025-01-01
+316-55-4634,Manaus,Membro,Homem,Alimentos e Bebidas,80.05,5,400.25,12:45,Cartao de Credito,9.4,2025-01-01
+733-33-4967,São Paulo,Normal,Homem,Acessorios Eletronicos,20.85,8,166.8,19:17,Debito,6.3,2025-01-01
+608-27-6295,Manaus,Membro,Homem,Acessorios Eletronicos,52.89,6,317.34,17:34,Cartao de Credito,9.8,2025-01-01
+414-12-7047,Manaus,Normal,Homem,Alimentos e Bebidas,19.79,8,158.32,12:04,Pix,8.7,2025-01-01
+827-26-2100,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,33.84,9,304.56,16:21,Pix,8.8,2025-01-01
+175-54-2529,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,22.17,8,177.36,17:01,Cartao de Credito,9.6,2025-01-01
+139-52-2867,São Paulo,Normal,Mulher,Moda,22.51,7,157.57,10:50,Cartao de Credito,4.8,2025-01-01
+407-63-8975,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,73.88,6,443.28,19:16,Pix,4.4,2025-01-01
+342-65-4817,São Paulo,Membro,Homem,Saude e Beleza,86.8,3,260.4,16:47,Pix,9.9,2025-01-01
+130-98-8941,São Paulo,Normal,Homem,Moda,64.26,7,449.82,10:00,Debito,5.7,2025-01-01
+434-83-9547,São Paulo,Membro,Homem,Alimentos e Bebidas,38.47,8,307.76,11:51,Debito,7.7,2025-01-01
+851-28-6367,Rio de Janeiro,Membro,Homem,Esportes e Viagens,15.5,10,155.0,10:55,Pix,8.0,2025-01-01
+824-88-3614,São Paulo,Normal,Homem,Saude e Beleza,34.31,8,274.48,15:00,Pix,5.7,2025-01-01
+586-25-0848,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,12.34,7,86.38,11:19,Cartao de Credito,6.7,2025-01-01
+895-66-0685,Manaus,Membro,Homem,Alimentos e Bebidas,18.08,3,54.24,19:46,Pix,8.0,2025-01-01
+305-14-0245,Manaus,Membro,Mulher,Casa e Estilo de Vida,94.49,8,755.92,19:00,Pix,7.5,2025-01-01
+732-04-5373,Manaus,Membro,Homem,Casa e Estilo de Vida,46.47,4,185.88,10:53,Debito,7.0,2025-01-01
+400-60-7251,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,74.07,1,74.07,12:50,Pix,9.9,2025-01-01
+593-65-1552,São Paulo,Normal,Mulher,Casa e Estilo de Vida,69.81,4,279.24,20:50,Cartao de Credito,5.9,2025-01-01
+284-34-9626,Manaus,Normal,Mulher,Casa e Estilo de Vida,77.04,3,231.12,10:39,Cartao de Credito,7.2,2025-01-01
+437-58-8131,Manaus,Normal,Mulher,Moda,73.52,2,147.04,13:41,Pix,4.6,2025-01-01
+286-43-6208,São Paulo,Normal,Mulher,Alimentos e Bebidas,87.8,9,790.2,19:08,Debito,9.2,2025-01-01
+641-43-2399,Manaus,Normal,Homem,Casa e Estilo de Vida,25.55,4,102.2,20:23,Pix,5.7,2025-01-01
+831-07-6050,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,32.71,5,163.55,11:30,Cartao de Credito,9.9,2025-01-01
+556-86-3144,São Paulo,Membro,Mulher,Moda,74.29,1,74.29,19:30,Debito,5.0,2025-01-01
+848-24-9445,São Paulo,Membro,Homem,Saude e Beleza,43.7,2,87.4,18:03,Debito,4.9,2025-01-01
+856-22-8149,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,25.29,1,25.29,10:13,Pix,6.1,2025-01-01
+699-01-4164,São Paulo,Normal,Homem,Saude e Beleza,41.5,4,166.0,19:58,Cartao de Credito,8.2,2025-01-01
+420-11-4919,São Paulo,Membro,Mulher,Alimentos e Bebidas,71.39,5,356.95,19:57,Cartao de Credito,5.5,2025-01-01
+606-80-4905,São Paulo,Membro,Mulher,Esportes e Viagens,19.15,6,114.9,10:01,Cartao de Credito,6.8,2025-01-01
+542-41-0513,Manaus,Membro,Mulher,Acessorios Eletronicos,57.49,4,229.96,11:57,Debito,6.6,2025-01-01
+426-39-2418,São Paulo,Normal,Homem,Acessorios Eletronicos,61.41,7,429.87,10:02,Debito,9.8,2025-01-01
+875-46-5808,Manaus,Membro,Homem,Saude e Beleza,25.9,10,259.0,14:51,Pix,8.7,2025-01-01
+394-43-4238,Manaus,Membro,Homem,Casa e Estilo de Vida,17.77,5,88.85,12:42,Cartao de Credito,5.4,2025-01-01
+749-24-1565,Rio de Janeiro,Normal,Mulher,Saude e Beleza,23.03,9,207.27,12:02,Pix,7.9,2025-01-01
+672-51-8681,São Paulo,Membro,Mulher,Acessorios Eletronicos,66.65,9,599.85,18:19,Cartao de Credito,9.7,2025-01-01
+263-87-5680,São Paulo,Membro,Mulher,Casa e Estilo de Vida,28.53,10,285.3,17:38,Pix,7.8,2025-01-01
+573-58-9734,Manaus,Normal,Mulher,Moda,30.37,3,91.11,13:41,Pix,5.1,2025-01-01
+817-69-8206,Manaus,Normal,Mulher,Acessorios Eletronicos,99.73,9,897.57,19:42,Cartao de Credito,6.5,2025-01-01
+888-02-0338,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,26.23,9,236.07,20:24,Pix,5.9,2025-01-01
+677-11-0152,São Paulo,Normal,Mulher,Alimentos e Bebidas,93.26,9,839.34,18:08,Debito,8.8,2025-01-01
+142-63-6033,Manaus,Normal,Homem,Casa e Estilo de Vida,92.36,5,461.8,19:17,Pix,4.9,2025-01-01
+656-16-1063,Manaus,Normal,Homem,Esportes e Viagens,46.42,3,139.26,13:24,Cartao de Credito,4.4,2025-01-01
+891-58-8335,Manaus,Membro,Mulher,Esportes e Viagens,29.61,7,207.27,15:53,Debito,6.5,2025-01-01
+802-43-8934,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,18.28,1,18.28,15:05,Cartao de Credito,8.3,2025-01-01
+560-30-5617,Manaus,Normal,Mulher,Esportes e Viagens,24.77,5,123.85,18:27,Debito,8.5,2025-01-01
+319-74-2561,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,94.64,3,283.92,16:55,Debito,5.5,2025-01-01
+549-03-9315,Manaus,Normal,Homem,Moda,94.87,8,758.96,12:58,Pix,8.7,2025-01-01
+790-29-1172,Manaus,Normal,Mulher,Alimentos e Bebidas,57.34,3,172.02,18:59,Cartao de Credito,7.9,2025-01-01
+239-36-3640,Manaus,Normal,Homem,Acessorios Eletronicos,45.35,6,272.1,13:44,Pix,6.1,2025-01-01
+468-01-2051,Manaus,Normal,Homem,Alimentos e Bebidas,62.08,7,434.56,13:46,Pix,5.4,2025-01-01
+389-25-3394,São Paulo,Normal,Homem,Acessorios Eletronicos,11.81,5,59.05,18:06,Debito,9.4,2025-01-01
+279-62-1445,São Paulo,Membro,Mulher,Moda,12.54,1,12.54,12:38,Debito,8.2,2025-01-01
+213-72-6612,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,43.25,2,86.5,15:56,Debito,6.2,2025-01-01
+746-68-6593,São Paulo,Membro,Mulher,Esportes e Viagens,87.16,2,174.32,14:29,Cartao de Credito,9.7,2025-01-01
+836-82-5858,Manaus,Membro,Homem,Saude e Beleza,69.37,9,624.33,19:14,Pix,4.0,2025-01-01
+583-72-1480,São Paulo,Membro,Homem,Acessorios Eletronicos,37.06,4,148.24,16:24,Pix,9.7,2025-01-01
+466-61-5506,Manaus,Membro,Mulher,Acessorios Eletronicos,90.7,6,544.2,10:52,Debito,5.3,2025-01-01
+721-86-6247,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,63.42,8,507.36,12:55,Pix,7.4,2025-01-01
+289-65-5721,Manaus,Normal,Mulher,Moda,81.37,2,162.74,19:28,Debito,6.5,2025-01-01
+545-46-3100,Manaus,Membro,Mulher,Acessorios Eletronicos,10.59,3,31.77,13:52,Cartao de Credito,8.7,2025-01-01
+418-02-5978,Manaus,Normal,Mulher,Saude e Beleza,84.09,9,756.81,10:54,Debito,8.0,2025-01-01
+269-04-5750,Manaus,Membro,Homem,Moda,73.82,4,295.28,18:31,Debito,6.7,2025-01-01
+157-13-5295,Rio de Janeiro,Membro,Homem,Saude e Beleza,51.94,10,519.4,18:24,Pix,6.5,2025-01-01
+645-78-8093,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,93.14,2,186.28,18:09,Pix,4.1,2025-01-01
+211-30-9270,São Paulo,Normal,Homem,Saude e Beleza,17.41,5,87.05,15:16,Cartao de Credito,4.9,2025-01-01
+755-12-3214,São Paulo,Membro,Mulher,Moda,44.22,5,221.1,17:07,Cartao de Credito,8.6,2025-01-01
+346-84-3103,Manaus,Membro,Mulher,Acessorios Eletronicos,13.22,5,66.1,19:26,Debito,4.3,2025-01-01
+478-06-7835,Rio de Janeiro,Normal,Homem,Moda,89.69,1,89.69,11:20,Pix,4.9,2025-01-01
+540-11-4336,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,24.94,9,224.46,16:49,Cartao de Credito,5.6,2025-01-01
+448-81-5016,Rio de Janeiro,Normal,Homem,Saude e Beleza,59.77,2,119.54,12:01,Cartao de Credito,5.8,2025-01-01
+142-72-4741,São Paulo,Membro,Homem,Moda,93.2,2,186.4,18:37,Cartao de Credito,6.0,2025-01-01
+217-58-1179,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,62.65,4,250.6,11:25,Debito,4.2,2025-01-01
+376-02-8238,Manaus,Normal,Homem,Casa e Estilo de Vida,93.87,8,750.96,18:42,Cartao de Credito,8.3,2025-01-01
+530-90-9855,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,47.59,8,380.72,14:47,Debito,5.7,2025-01-01
+866-05-7563,Manaus,Membro,Mulher,Acessorios Eletronicos,81.4,3,244.2,19:43,Debito,4.8,2025-01-01
+604-70-6476,Rio de Janeiro,Membro,Homem,Moda,17.94,5,89.7,14:04,Pix,6.8,2025-01-01
+799-71-1548,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,77.72,4,310.88,16:11,Cartao de Credito,8.8,2025-01-01
+785-13-7708,Manaus,Normal,Homem,Alimentos e Bebidas,73.06,7,511.42,19:06,Cartao de Credito,4.2,2025-01-01
+845-51-0542,Manaus,Membro,Homem,Alimentos e Bebidas,46.55,9,418.95,15:34,Pix,6.4,2025-01-01
+662-47-5456,São Paulo,Membro,Homem,Moda,35.19,10,351.9,19:06,Cartao de Credito,8.4,2025-01-01
+883-17-4236,São Paulo,Normal,Mulher,Esportes e Viagens,14.39,2,28.78,19:44,Cartao de Credito,7.2,2025-01-01
+290-68-2984,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,23.75,4,95.0,11:22,Debito,5.2,2025-01-01
+704-11-6354,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,58.9,8,471.2,11:23,Debito,8.9,2025-01-01
+110-48-7033,Manaus,Membro,Homem,Moda,32.62,4,130.48,14:12,Debito,9.0,2025-01-01
+366-93-0948,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,66.35,1,66.35,10:46,Cartao de Credito,9.7,2025-01-01
+729-09-9681,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,25.91,6,155.46,10:16,Pix,8.7,2025-01-01
+151-16-1484,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,32.25,4,129.0,12:38,Pix,6.5,2025-01-01
+380-94-4661,São Paulo,Membro,Homem,Acessorios Eletronicos,65.94,4,263.76,13:05,Cartao de Credito,6.9,2025-01-01
+850-41-9669,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,75.06,9,675.54,13:25,Pix,6.2,2025-01-01
+821-07-3596,São Paulo,Normal,Mulher,Moda,16.45,4,65.8,14:53,Pix,5.6,2025-01-01
+655-85-5130,Manaus,Membro,Mulher,Moda,38.3,4,153.2,19:22,Debito,5.7,2025-01-01
+447-15-7839,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,22.24,10,222.4,11:00,Debito,4.2,2025-01-01
+154-74-7179,Manaus,Normal,Homem,Esportes e Viagens,54.45,1,54.45,19:24,Pix,7.9,2025-01-01
+253-12-6086,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,98.4,7,688.8,12:43,Cartao de Credito,8.7,2025-01-01
+808-65-0703,São Paulo,Normal,Homem,Casa e Estilo de Vida,35.47,4,141.88,17:22,Cartao de Credito,6.9,2025-01-01
+571-94-0759,Manaus,Membro,Mulher,Alimentos e Bebidas,74.6,10,746.0,20:55,Debito,9.5,2025-01-01
+144-51-6085,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,70.74,4,282.96,16:05,Cartao de Credito,4.4,2025-01-01
+731-14-2199,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,35.54,10,355.4,13:34,Pix,7.0,2025-01-01
+783-09-1637,Manaus,Normal,Mulher,Esportes e Viagens,67.43,5,337.15,18:13,Pix,6.3,2025-01-01
+687-15-1097,São Paulo,Membro,Mulher,Saude e Beleza,21.12,2,42.24,19:17,Debito,9.7,2025-01-01
+126-54-1082,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,21.54,9,193.86,11:44,Cartao de Credito,8.8,2025-01-01
+633-91-1052,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,12.03,2,24.06,15:51,Debito,5.1,2025-01-01
+477-24-6490,Manaus,Normal,Mulher,Saude e Beleza,99.71,6,598.26,16:52,Pix,7.9,2025-01-01
+566-19-5475,Manaus,Normal,Homem,Moda,47.97,7,335.79,20:52,Debito,6.2,2025-01-01
+526-86-8552,São Paulo,Membro,Mulher,Casa e Estilo de Vida,21.82,10,218.2,17:36,Debito,7.1,2025-01-01
+376-56-3573,São Paulo,Normal,Mulher,Moda,95.42,4,381.68,13:23,Pix,6.4,2025-01-01
+537-72-0426,São Paulo,Membro,Homem,Moda,70.99,10,709.9,16:28,Debito,5.7,2025-01-01
+828-61-5674,Rio de Janeiro,Membro,Homem,Esportes e Viagens,44.02,10,440.2,19:57,Cartao de Credito,9.6,2025-01-01
+136-08-6195,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,69.96,8,559.68,17:01,Cartao de Credito,6.4,2025-01-01
+523-38-0215,São Paulo,Normal,Homem,Casa e Estilo de Vida,37.0,1,37.0,13:29,Cartao de Credito,7.9,2025-01-01
+490-29-1201,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,15.34,1,15.34,11:09,Debito,6.5,2025-01-01
+667-92-0055,Rio de Janeiro,Membro,Homem,Saude e Beleza,99.83,6,598.98,15:02,Pix,8.5,2025-01-01
+565-17-3836,Rio de Janeiro,Membro,Mulher,Saude e Beleza,47.67,4,190.68,14:21,Debito,9.1,2025-01-01
+498-41-1961,Manaus,Normal,Homem,Saude e Beleza,66.68,5,333.4,18:01,Debito,7.6,2025-01-01
+593-95-4461,São Paulo,Membro,Homem,Casa e Estilo de Vida,74.86,1,74.86,14:49,Debito,6.9,2025-01-01
+226-71-3580,São Paulo,Normal,Mulher,Esportes e Viagens,23.75,9,213.75,12:02,Debito,9.5,2025-01-01
+283-79-9594,Manaus,Normal,Mulher,Alimentos e Bebidas,48.51,7,339.57,13:30,Cartao de Credito,5.2,2025-01-01
+430-60-3493,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,94.88,7,664.16,14:38,Debito,4.2,2025-01-01
+139-20-0155,Manaus,Membro,Homem,Acessorios Eletronicos,40.3,10,403.0,17:37,Cartao de Credito,7.0,2025-01-01
+558-80-4082,São Paulo,Normal,Homem,Acessorios Eletronicos,27.85,7,194.95,17:20,Pix,6.0,2025-01-01
+278-97-7759,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,62.48,1,62.48,20:29,Debito,4.7,2025-01-01
+316-68-6352,Rio de Janeiro,Membro,Mulher,Alimentos e Bebidas,36.36,2,72.72,10:00,Debito,7.1,2025-01-01
+585-03-5943,Manaus,Normal,Homem,Saude e Beleza,18.11,10,181.1,11:46,Pix,5.9,2025-01-01
+211-05-0490,São Paulo,Membro,Mulher,Acessorios Eletronicos,51.92,5,259.6,13:42,Debito,7.5,2025-01-01
+727-75-6477,São Paulo,Normal,Homem,Acessorios Eletronicos,28.84,4,115.36,14:44,Debito,6.4,2025-01-01
+744-02-5987,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,78.38,6,470.28,14:16,Pix,5.8,2025-01-01
+307-83-9164,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,60.01,4,240.04,15:54,Debito,4.5,2025-01-01
+779-06-0012,São Paulo,Membro,Mulher,Casa e Estilo de Vida,88.61,1,88.61,10:21,Debito,7.7,2025-01-01
+446-47-6729,São Paulo,Normal,Homem,Moda,99.82,2,199.64,18:09,Cartao de Credito,6.7,2025-01-02
+573-10-3877,Manaus,Membro,Homem,Saude e Beleza,39.01,1,39.01,16:46,Cartao de Credito,4.7,2025-01-02
+735-06-4124,São Paulo,Normal,Homem,Alimentos e Bebidas,48.61,1,48.61,15:31,Debito,4.4,2025-01-02
+439-54-7422,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,51.19,4,204.76,17:15,Cartao de Credito,4.7,2025-01-02
+396-90-2219,Manaus,Normal,Mulher,Acessorios Eletronicos,14.96,8,119.68,12:29,Debito,8.6,2025-01-02
+411-77-0180,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,72.2,7,505.4,20:14,Pix,4.3,2025-01-02
+286-01-5402,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,40.23,7,281.61,13:22,Debito,9.6,2025-01-02
+803-17-8013,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,88.79,8,710.32,17:09,Debito,4.1,2025-01-02
+512-98-1403,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,26.48,3,79.44,10:40,Pix,4.7,2025-01-02
+848-42-2560,Rio de Janeiro,Normal,Mulher,Moda,81.91,2,163.82,17:43,Debito,7.8,2025-01-02
+532-59-7201,Manaus,Membro,Homem,Esportes e Viagens,79.93,6,479.58,14:04,Debito,5.5,2025-01-02
+181-94-6432,São Paulo,Membro,Homem,Moda,69.33,2,138.66,19:05,Pix,9.7,2025-01-02
+870-76-1733,Rio de Janeiro,Membro,Mulher,Alimentos e Bebidas,14.23,5,71.15,10:08,Cartao de Credito,4.4,2025-01-02
+423-64-4619,Rio de Janeiro,Membro,Mulher,Saude e Beleza,15.55,9,139.95,13:12,Debito,5.0,2025-01-02
+227-07-4446,São Paulo,Membro,Mulher,Acessorios Eletronicos,78.13,10,781.3,20:51,Debito,4.4,2025-01-02
+174-36-3675,São Paulo,Membro,Homem,Alimentos e Bebidas,99.37,2,198.74,17:29,Debito,5.2,2025-01-02
+428-83-5800,São Paulo,Membro,Mulher,Alimentos e Bebidas,21.08,3,63.24,10:25,Debito,7.3,2025-01-02
+603-07-0961,São Paulo,Membro,Homem,Acessorios Eletronicos,74.79,5,373.95,11:34,Debito,4.9,2025-01-02
+704-20-4138,São Paulo,Membro,Mulher,Saude e Beleza,29.67,7,207.69,18:58,Cartao de Credito,8.1,2025-01-02
+787-15-1757,São Paulo,Membro,Homem,Saude e Beleza,44.07,4,176.28,16:28,Pix,8.4,2025-01-02
+649-11-3678,São Paulo,Normal,Mulher,Alimentos e Bebidas,22.93,9,206.37,20:26,Debito,5.5,2025-01-02
+622-20-1945,São Paulo,Normal,Mulher,Saude e Beleza,39.42,1,39.42,15:08,Debito,8.4,2025-01-02
+372-94-8041,Rio de Janeiro,Normal,Homem,Saude e Beleza,15.26,6,91.56,18:03,Pix,9.8,2025-01-02
+563-91-7120,Rio de Janeiro,Normal,Mulher,Moda,61.77,5,308.85,13:21,Debito,6.7,2025-01-02
+746-54-5508,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,21.52,6,129.12,12:48,Cartao de Credito,9.4,2025-01-02
+276-54-0879,Manaus,Normal,Homem,Esportes e Viagens,97.74,4,390.96,19:53,Pix,6.4,2025-01-02
+815-11-1168,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,99.78,5,498.9,19:09,Debito,5.4,2025-01-02
+719-76-3868,São Paulo,Membro,Homem,Alimentos e Bebidas,94.26,4,377.04,16:30,Debito,8.6,2025-01-02
+730-61-8757,Manaus,Membro,Homem,Saude e Beleza,51.13,4,204.52,10:11,Cartao de Credito,4.0,2025-01-02
+340-66-0321,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,36.36,4,145.44,13:07,Debito,7.6,2025-01-02
+868-81-1752,Manaus,Normal,Homem,Casa e Estilo de Vida,22.02,9,198.18,18:48,Debito,6.8,2025-01-02
+634-97-8956,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,32.9,3,98.7,17:27,Cartao de Credito,9.1,2025-01-02
+566-71-1091,Rio de Janeiro,Normal,Homem,Moda,77.02,5,385.1,15:59,Debito,5.5,2025-01-02
+442-48-3607,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,23.48,2,46.96,11:21,Cartao de Credito,7.9,2025-01-02
+835-16-0096,São Paulo,Membro,Homem,Esportes e Viagens,14.7,5,73.5,13:48,Pix,8.5,2025-01-02
+527-09-6272,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,28.45,5,142.25,10:17,Cartao de Credito,9.1,2025-01-02
+898-04-2717,Rio de Janeiro,Normal,Homem,Moda,76.4,9,687.6,15:49,Pix,7.5,2025-01-02
+692-27-8933,Manaus,Normal,Mulher,Esportes e Viagens,57.95,6,347.7,13:02,Debito,5.2,2025-01-02
+633-09-3463,São Paulo,Normal,Mulher,Acessorios Eletronicos,47.65,3,142.95,12:58,Cartao de Credito,9.5,2025-01-02
+374-17-3652,Manaus,Membro,Mulher,Alimentos e Bebidas,42.82,9,385.38,15:26,Cartao de Credito,8.9,2025-01-02
+378-07-7001,Manaus,Membro,Homem,Acessorios Eletronicos,48.09,3,144.27,18:23,Cartao de Credito,7.8,2025-01-02
+433-75-6987,Manaus,Membro,Mulher,Saude e Beleza,55.97,7,391.79,19:06,Pix,8.9,2025-01-02
+873-95-4984,Manaus,Membro,Mulher,Saude e Beleza,76.9,7,538.3,20:21,Debito,7.7,2025-01-02
+416-13-5917,São Paulo,Normal,Mulher,Alimentos e Bebidas,97.03,5,485.15,16:24,Pix,9.3,2025-01-02
+150-89-8043,Rio de Janeiro,Normal,Homem,Esportes e Viagens,44.65,3,133.95,15:04,Debito,6.2,2025-01-02
+135-84-8019,Rio de Janeiro,Normal,Mulher,Moda,77.93,9,701.37,16:10,Pix,7.6,2025-01-02
+441-94-7118,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,71.95,1,71.95,12:14,Debito,7.3,2025-01-02
+725-96-3778,São Paulo,Membro,Mulher,Casa e Estilo de Vida,89.25,8,714.0,10:13,Debito,4.7,2025-01-02
+531-80-1784,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,26.02,7,182.14,17:38,Debito,5.1,2025-01-02
+400-45-1220,Manaus,Normal,Mulher,Saude e Beleza,13.5,10,135.0,11:06,Cartao de Credito,4.8,2025-01-02
+860-79-0874,São Paulo,Membro,Mulher,Moda,99.3,10,993.0,14:53,Cartao de Credito,6.6,2025-01-02
+834-61-8124,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,51.69,7,361.83,18:22,Debito,5.5,2025-01-02
+115-99-4379,Manaus,Membro,Mulher,Moda,54.73,7,383.11,19:02,Cartao de Credito,8.5,2025-01-02
+565-67-6697,Manaus,Membro,Homem,Casa e Estilo de Vida,27.0,9,243.0,14:16,Debito,4.8,2025-01-02
+320-49-6392,São Paulo,Normal,Mulher,Acessorios Eletronicos,30.24,1,30.24,15:44,Debito,8.4,2025-01-02
+889-04-9723,Manaus,Membro,Mulher,Alimentos e Bebidas,89.14,4,356.56,12:20,Cartao de Credito,7.8,2025-01-02
+632-90-0281,São Paulo,Normal,Mulher,Moda,37.55,10,375.5,20:01,Cartao de Credito,9.3,2025-01-02
+554-42-2417,São Paulo,Normal,Mulher,Esportes e Viagens,95.44,10,954.4,13:45,Debito,5.2,2025-01-02
+453-63-6187,Manaus,Normal,Homem,Acessorios Eletronicos,27.5,3,82.5,15:40,Pix,6.5,2025-01-02
+578-80-7669,Manaus,Normal,Homem,Esportes e Viagens,74.97,1,74.97,16:58,Debito,5.6,2025-01-02
+612-36-5536,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,80.96,8,647.68,11:12,Cartao de Credito,7.4,2025-01-02
+605-72-4132,São Paulo,Normal,Mulher,Alimentos e Bebidas,94.47,8,755.76,15:12,Debito,9.1,2025-01-02
+471-41-2823,São Paulo,Normal,Homem,Alimentos e Bebidas,99.79,2,199.58,20:37,Pix,8.0,2025-01-02
+462-67-9126,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,73.22,6,439.32,17:44,Debito,7.2,2025-01-02
+272-27-9238,São Paulo,Normal,Mulher,Alimentos e Bebidas,41.24,4,164.96,16:23,Debito,7.1,2025-01-02
+834-25-9262,São Paulo,Normal,Mulher,Moda,81.68,4,326.72,12:12,Debito,9.1,2025-01-02
+122-61-9553,São Paulo,Normal,Mulher,Acessorios Eletronicos,51.32,9,461.88,19:33,Debito,5.6,2025-01-02
+468-88-0009,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,65.94,4,263.76,10:29,Debito,6.0,2025-01-02
+613-59-9758,São Paulo,Normal,Mulher,Esportes e Viagens,14.36,10,143.6,14:28,Debito,5.4,2025-01-02
+254-31-0042,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,21.5,9,193.5,12:46,Cartao de Credito,7.8,2025-01-02
+201-86-2184,Manaus,Membro,Mulher,Acessorios Eletronicos,26.26,7,183.82,19:40,Debito,9.9,2025-01-02
+261-12-8671,Manaus,Normal,Mulher,Moda,60.96,2,121.92,19:39,Cartao de Credito,4.9,2025-01-02
+730-70-9830,São Paulo,Normal,Mulher,Casa e Estilo de Vida,70.11,6,420.66,17:54,Pix,5.2,2025-01-02
+382-25-8917,São Paulo,Normal,Homem,Moda,42.08,6,252.48,12:25,Debito,8.9,2025-01-02
+422-29-8786,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,67.09,5,335.45,16:47,Cartao de Credito,9.1,2025-01-02
+667-23-5919,Rio de Janeiro,Membro,Mulher,Moda,96.7,5,483.5,12:52,Pix,7.0,2025-01-02
+843-01-4703,Manaus,Membro,Mulher,Casa e Estilo de Vida,35.38,9,318.42,19:50,Cartao de Credito,9.6,2025-01-02
+743-88-1662,São Paulo,Normal,Homem,Esportes e Viagens,95.49,7,668.43,18:17,Pix,8.7,2025-01-02
+595-86-2894,São Paulo,Membro,Homem,Moda,96.98,4,387.92,17:20,Pix,9.4,2025-01-02
+182-69-8360,Manaus,Normal,Mulher,Acessorios Eletronicos,23.65,4,94.6,13:32,Cartao de Credito,4.0,2025-01-02
+289-15-7034,Rio de Janeiro,Membro,Homem,Esportes e Viagens,82.33,4,329.32,10:37,Cartao de Credito,7.5,2025-01-02
+462-78-5240,São Paulo,Normal,Mulher,Acessorios Eletronicos,26.61,2,53.22,14:35,Debito,4.2,2025-01-02
+868-52-7573,Manaus,Normal,Mulher,Alimentos e Bebidas,99.69,5,498.45,12:09,Debito,9.9,2025-01-02
+153-58-4872,São Paulo,Membro,Mulher,Alimentos e Bebidas,74.89,4,299.56,15:32,Pix,4.2,2025-01-02
+662-72-2873,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,40.94,5,204.7,13:58,Pix,9.9,2025-01-02
+525-88-7307,Manaus,Membro,Homem,Esportes e Viagens,75.82,1,75.82,13:19,Debito,5.8,2025-01-02
+689-16-9784,São Paulo,Normal,Homem,Alimentos e Bebidas,46.77,6,280.62,13:37,Debito,6.0,2025-01-02
+725-56-0833,Rio de Janeiro,Normal,Mulher,Saude e Beleza,32.32,10,323.2,16:49,Cartao de Credito,10.0,2025-01-02
+394-41-0748,São Paulo,Membro,Mulher,Moda,54.07,9,486.63,14:55,Pix,9.5,2025-01-02
+596-42-3999,Manaus,Normal,Homem,Alimentos e Bebidas,18.22,7,127.54,14:04,Cartao de Credito,6.6,2025-01-02
+541-89-9860,São Paulo,Membro,Mulher,Moda,80.48,3,241.44,12:31,Debito,8.1,2025-01-02
+173-82-9529,Manaus,Normal,Mulher,Moda,37.95,10,379.5,14:51,Debito,9.7,2025-01-02
+563-36-9814,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,76.82,1,76.82,18:27,Pix,7.2,2025-01-02
+308-47-4913,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,52.26,10,522.6,12:45,Cartao de Credito,6.2,2025-01-02
+885-17-6250,Rio de Janeiro,Normal,Mulher,Saude e Beleza,79.74,1,79.74,10:36,Pix,7.3,2025-01-02
+726-27-2396,Rio de Janeiro,Normal,Mulher,Saude e Beleza,77.5,5,387.5,20:36,Pix,4.3,2025-01-02
+316-01-3952,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,54.27,5,271.35,14:16,Pix,4.6,2025-01-02
+760-54-1821,Manaus,Normal,Homem,Casa e Estilo de Vida,13.59,9,122.31,10:26,Debito,5.8,2025-01-02
+793-10-3222,Manaus,Membro,Mulher,Saude e Beleza,41.06,6,246.36,13:30,Cartao de Credito,8.3,2025-01-02
+346-12-3257,Manaus,Membro,Homem,Acessorios Eletronicos,19.24,9,173.16,16:28,Debito,8.0,2025-01-02
+110-05-6330,São Paulo,Normal,Mulher,Alimentos e Bebidas,39.43,6,236.58,20:18,Cartao de Credito,9.4,2025-01-02
+651-61-0874,São Paulo,Normal,Homem,Casa e Estilo de Vida,46.22,4,184.88,20:04,Cartao de Credito,6.2,2025-01-02
+236-86-3015,São Paulo,Membro,Homem,Casa e Estilo de Vida,13.98,1,13.98,13:38,Pix,9.8,2025-01-02
+831-64-0259,Manaus,Normal,Mulher,Moda,39.75,5,198.75,10:43,Pix,9.6,2025-01-02
+587-03-7455,São Paulo,Membro,Mulher,Moda,97.79,7,684.53,17:30,Pix,4.9,2025-01-02
+882-40-4577,Rio de Janeiro,Membro,Homem,Esportes e Viagens,67.26,4,269.04,15:28,Cartao de Credito,8.0,2025-01-02
+732-67-5346,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,13.79,5,68.95,19:07,Cartao de Credito,7.8,2025-01-02
+725-32-9708,Manaus,Membro,Mulher,Moda,68.71,4,274.84,19:01,Debito,4.1,2025-01-02
+256-08-8343,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,56.53,4,226.12,19:48,Pix,5.5,2025-01-02
+372-26-1506,São Paulo,Normal,Mulher,Moda,23.82,5,119.1,19:24,Pix,5.4,2025-01-02
+244-08-0162,Manaus,Normal,Mulher,Saude e Beleza,34.21,10,342.1,13:00,Debito,5.1,2025-01-02
+569-71-4390,Manaus,Normal,Homem,Esportes e Viagens,21.87,2,43.74,14:29,Pix,6.9,2025-01-02
+132-23-6451,Rio de Janeiro,Membro,Homem,Saude e Beleza,20.97,5,104.85,13:21,Debito,7.8,2025-01-02
+696-90-2548,Rio de Janeiro,Normal,Homem,Esportes e Viagens,25.84,3,77.52,18:55,Pix,6.6,2025-01-02
+472-15-9636,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,50.93,8,407.44,19:36,Pix,9.2,2025-01-02
+268-03-6164,Manaus,Normal,Homem,Saude e Beleza,96.11,1,96.11,16:28,Pix,7.8,2025-01-02
+750-57-9686,São Paulo,Normal,Mulher,Casa e Estilo de Vida,45.38,4,181.52,13:48,Cartao de Credito,8.7,2025-01-02
+186-09-3669,São Paulo,Membro,Mulher,Saude e Beleza,81.51,1,81.51,10:57,Pix,9.2,2025-01-02
+848-07-1692,Manaus,Normal,Mulher,Saude e Beleza,57.22,2,114.44,17:13,Pix,8.3,2025-01-02
+745-71-3520,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,25.22,7,176.54,10:23,Debito,8.2,2025-01-02
+266-76-6436,São Paulo,Membro,Mulher,Alimentos e Bebidas,38.6,3,115.8,13:57,Pix,7.5,2025-01-02
+740-22-2500,São Paulo,Normal,Mulher,Acessorios Eletronicos,84.05,3,252.15,13:29,Debito,9.8,2025-01-02
+271-88-8734,São Paulo,Membro,Mulher,Moda,97.21,10,972.1,13:00,Cartao de Credito,8.7,2025-01-02
+301-81-8610,Manaus,Membro,Homem,Moda,25.42,8,203.36,19:42,Cartao de Credito,6.7,2025-01-02
+489-64-4354,São Paulo,Normal,Homem,Moda,16.28,1,16.28,15:36,Debito,5.0,2025-01-02
+198-84-7132,Manaus,Membro,Homem,Moda,40.61,9,365.49,13:40,Debito,7.0,2025-01-02
+269-10-8440,Rio de Janeiro,Membro,Homem,Saude e Beleza,53.17,7,372.19,18:01,Debito,8.9,2025-01-02
+650-98-6268,Manaus,Membro,Mulher,Alimentos e Bebidas,20.87,3,62.61,13:53,Cartao de Credito,8.0,2025-01-02
+741-73-3559,Manaus,Normal,Homem,Esportes e Viagens,67.27,5,336.35,17:27,Debito,6.9,2025-01-02
+325-77-6186,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,90.65,10,906.5,10:53,Pix,7.3,2025-01-02
+286-75-7818,Manaus,Normal,Homem,Moda,69.08,2,138.16,19:48,Cartao de Credito,6.9,2025-01-02
+574-57-9721,São Paulo,Normal,Homem,Alimentos e Bebidas,43.27,2,86.54,16:53,Pix,5.7,2025-01-02
+459-50-7686,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,23.46,6,140.76,19:14,Pix,6.4,2025-01-02
+616-87-0016,Manaus,Normal,Homem,Moda,95.54,7,668.78,14:36,Cartao de Credito,9.6,2025-01-02
+837-55-7229,Manaus,Normal,Mulher,Moda,47.44,1,47.44,18:19,Cartao de Credito,6.8,2025-01-02
+751-69-0068,São Paulo,Normal,Homem,Esportes e Viagens,99.24,9,893.16,19:09,Pix,9.0,2025-01-02
+257-73-1380,São Paulo,Membro,Homem,Esportes e Viagens,82.93,4,331.72,16:51,Pix,9.6,2025-01-02
+345-08-4992,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,33.99,6,203.94,15:37,Cartao de Credito,7.7,2025-01-02
+549-96-4200,São Paulo,Membro,Homem,Alimentos e Bebidas,17.04,4,68.16,20:15,Pix,7.0,2025-01-02
+810-60-6344,São Paulo,Normal,Mulher,Acessorios Eletronicos,40.86,8,326.88,14:38,Cartao de Credito,6.5,2025-01-02
+450-28-2866,São Paulo,Membro,Homem,Alimentos e Bebidas,17.44,5,87.2,19:25,Debito,8.1,2025-01-02
+394-30-3170,Manaus,Membro,Mulher,Esportes e Viagens,88.43,8,707.44,19:35,Cartao de Credito,4.3,2025-01-02
+138-17-5109,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,89.21,9,802.89,15:42,Cartao de Credito,6.5,2025-01-02
+192-98-7397,São Paulo,Normal,Homem,Moda,12.78,1,12.78,14:11,Pix,9.5,2025-01-02
+301-11-9629,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,19.1,7,133.7,10:43,Debito,9.7,2025-01-02
+390-80-5128,Manaus,Membro,Mulher,Saude e Beleza,19.15,1,19.15,17:58,Cartao de Credito,9.5,2025-01-02
+235-46-8343,São Paulo,Membro,Homem,Alimentos e Bebidas,27.66,10,276.6,11:26,Cartao de Credito,8.9,2025-01-02
+453-12-7053,São Paulo,Normal,Homem,Moda,45.74,3,137.22,17:38,Cartao de Credito,6.5,2025-01-02
+296-11-7041,Manaus,Membro,Mulher,Saude e Beleza,27.07,1,27.07,20:07,Cartao de Credito,5.3,2025-01-02
+449-27-2918,Manaus,Membro,Mulher,Esportes e Viagens,39.12,1,39.12,11:02,Cartao de Credito,9.6,2025-01-02
+891-01-7034,Manaus,Normal,Mulher,Acessorios Eletronicos,74.71,6,448.26,19:07,Debito,6.7,2025-01-02
+744-09-5786,Manaus,Normal,Homem,Acessorios Eletronicos,22.01,6,132.06,18:50,Debito,7.6,2025-01-02
+727-17-0390,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,63.61,5,318.05,12:43,Pix,4.8,2025-01-02
+568-88-3448,Rio de Janeiro,Normal,Homem,Saude e Beleza,25.0,1,25.0,15:09,Pix,5.5,2025-01-02
+187-83-5490,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,20.77,4,83.08,13:47,Debito,4.7,2025-01-02
+767-54-1907,Manaus,Membro,Mulher,Moda,29.56,5,147.8,16:59,Debito,6.9,2025-01-02
+710-46-4433,Manaus,Membro,Mulher,Alimentos e Bebidas,77.4,9,696.6,14:15,Cartao de Credito,4.5,2025-01-02
+533-33-5337,Manaus,Normal,Homem,Acessorios Eletronicos,79.39,10,793.9,20:24,Debito,6.2,2025-01-02
+325-90-8763,São Paulo,Membro,Mulher,Acessorios Eletronicos,46.57,10,465.7,13:58,Debito,7.6,2025-01-02
+729-46-7422,São Paulo,Normal,Homem,Alimentos e Bebidas,35.89,1,35.89,16:52,Cartao de Credito,7.9,2025-01-02
+639-76-1242,São Paulo,Normal,Homem,Alimentos e Bebidas,40.52,5,202.6,15:19,Debito,4.5,2025-01-02
+234-03-4040,Manaus,Membro,Mulher,Alimentos e Bebidas,73.05,10,730.5,12:25,Cartao de Credito,8.7,2025-01-02
+326-71-2155,São Paulo,Normal,Mulher,Esportes e Viagens,73.95,4,295.8,10:02,Debito,6.1,2025-01-02
+320-32-8842,São Paulo,Membro,Mulher,Alimentos e Bebidas,22.62,1,22.62,18:58,Debito,6.4,2025-01-02
+470-32-9057,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,51.34,5,256.7,15:31,Cartao de Credito,9.1,2025-01-02
+878-30-2331,São Paulo,Membro,Mulher,Esportes e Viagens,54.55,10,545.5,11:22,Cartao de Credito,7.1,2025-01-02
+440-59-5691,São Paulo,Membro,Mulher,Saude e Beleza,37.15,7,260.05,13:12,Cartao de Credito,7.7,2025-01-02
+554-53-3790,Manaus,Normal,Homem,Esportes e Viagens,37.02,6,222.12,18:33,Debito,4.5,2025-01-02
+746-19-0921,São Paulo,Normal,Homem,Alimentos e Bebidas,21.58,1,21.58,10:02,Pix,7.2,2025-01-02
+233-34-0817,São Paulo,Membro,Mulher,Acessorios Eletronicos,98.84,1,98.84,11:21,Debito,8.4,2025-01-02
+767-05-1286,São Paulo,Membro,Mulher,Casa e Estilo de Vida,83.77,6,502.62,12:10,Pix,5.4,2025-01-02
+340-21-9136,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,40.05,4,160.2,11:40,Debito,9.7,2025-01-02
+405-31-3305,Rio de Janeiro,Membro,Homem,Moda,43.13,10,431.3,18:31,Cartao de Credito,5.5,2025-01-02
+731-59-7531,Manaus,Membro,Homem,Saude e Beleza,72.57,8,580.56,17:58,Debito,4.6,2025-01-02
+676-39-6028,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,64.44,5,322.2,17:04,Debito,6.6,2025-01-02
+502-05-1910,Rio de Janeiro,Normal,Homem,Saude e Beleza,65.18,3,195.54,20:35,Cartao de Credito,6.3,2025-01-02
+485-30-8700,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,33.26,5,166.3,16:10,Cartao de Credito,4.2,2025-01-02
+598-47-9715,São Paulo,Normal,Homem,Acessorios Eletronicos,84.07,4,336.28,16:54,Pix,4.4,2025-01-02
+701-69-8742,Manaus,Normal,Homem,Esportes e Viagens,34.37,10,343.7,10:11,Pix,6.7,2025-01-02
+575-67-1508,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,38.6,1,38.6,11:26,Pix,6.7,2025-01-02
+541-08-3113,São Paulo,Normal,Homem,Alimentos e Bebidas,65.97,8,527.76,20:29,Debito,8.4,2025-01-02
+246-11-3901,São Paulo,Normal,Mulher,Acessorios Eletronicos,32.8,10,328.0,12:12,Debito,6.2,2025-01-02
+674-15-9296,Rio de Janeiro,Normal,Homem,Esportes e Viagens,37.14,5,185.7,13:05,Pix,5.0,2025-01-02
+305-18-3552,Manaus,Membro,Homem,Casa e Estilo de Vida,60.38,10,603.8,16:19,Debito,6.0,2025-01-02
+493-65-6248,São Paulo,Membro,Mulher,Esportes e Viagens,36.98,10,369.8,19:48,Cartao de Credito,7.0,2025-01-02
+438-01-4015,Manaus,Membro,Mulher,Esportes e Viagens,49.49,4,197.96,15:25,Pix,6.6,2025-01-02
+709-58-4068,Manaus,Normal,Mulher,Moda,41.09,10,410.9,14:42,Debito,7.3,2025-01-02
+795-49-7276,Rio de Janeiro,Normal,Homem,Moda,37.15,4,148.6,18:59,Pix,8.3,2025-01-02
+556-72-8512,São Paulo,Normal,Homem,Casa e Estilo de Vida,22.96,1,22.96,20:47,Debito,4.3,2025-01-02
+627-95-3243,Manaus,Membro,Mulher,Casa e Estilo de Vida,77.68,9,699.12,13:21,Pix,9.8,2025-01-02
+686-41-0932,Manaus,Normal,Mulher,Moda,34.7,2,69.4,19:48,Pix,8.2,2025-01-02
+510-09-5628,Rio de Janeiro,Membro,Mulher,Moda,19.66,10,196.6,18:20,Cartao de Credito,7.2,2025-01-02
+608-04-3797,Manaus,Membro,Mulher,Saude e Beleza,25.32,8,202.56,20:24,Pix,8.7,2025-01-02
+148-82-2527,São Paulo,Membro,Mulher,Casa e Estilo de Vida,12.12,10,121.2,13:44,Cartao de Credito,8.4,2025-01-02
+437-53-3084,Manaus,Normal,Homem,Moda,99.89,2,199.78,11:48,Pix,7.1,2025-01-02
+632-32-4574,Manaus,Normal,Homem,Esportes e Viagens,75.92,8,607.36,14:14,Debito,5.5,2025-01-02
+556-97-7101,São Paulo,Normal,Mulher,Acessorios Eletronicos,63.22,2,126.44,15:51,Debito,8.5,2025-01-02
+862-59-8517,São Paulo,Normal,Mulher,Alimentos e Bebidas,90.24,6,541.44,11:17,Debito,6.2,2025-01-02
+401-18-8016,Manaus,Membro,Mulher,Esportes e Viagens,98.13,1,98.13,17:36,Debito,8.9,2025-01-02
+420-18-8989,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,51.52,8,412.16,15:47,Debito,9.6,2025-01-02
+277-63-2961,Manaus,Membro,Homem,Esportes e Viagens,73.97,1,73.97,15:53,Cartao de Credito,5.4,2025-01-02
+573-98-8548,São Paulo,Membro,Mulher,Moda,31.9,1,31.9,12:40,Pix,9.1,2025-01-02
+620-02-2046,São Paulo,Normal,Homem,Casa e Estilo de Vida,69.4,2,138.8,19:48,Pix,9.0,2025-01-02
+282-35-2475,Manaus,Normal,Mulher,Esportes e Viagens,93.31,2,186.62,17:53,Debito,6.3,2025-01-02
+511-54-3087,Manaus,Normal,Homem,Esportes e Viagens,88.45,1,88.45,16:36,Cartao de Credito,9.5,2025-01-02
+726-29-6793,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,24.18,8,193.44,20:54,Pix,9.8,2025-01-02
+387-49-4215,Manaus,Membro,Mulher,Esportes e Viagens,48.5,3,145.5,12:50,Debito,6.7,2025-01-02
+862-17-9201,Manaus,Normal,Mulher,Alimentos e Bebidas,84.05,6,504.3,10:48,Cartao de Credito,7.7,2025-01-02
+291-21-5991,Manaus,Membro,Homem,Saude e Beleza,61.29,5,306.45,14:28,Debito,7.0,2025-01-02
+602-80-9671,São Paulo,Membro,Mulher,Casa e Estilo de Vida,15.95,6,95.7,17:15,Cartao de Credito,5.1,2025-01-02
+347-72-6115,Manaus,Membro,Mulher,Esportes e Viagens,90.74,7,635.18,18:03,Cartao de Credito,6.2,2025-01-02
+209-61-0206,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,42.91,5,214.55,17:29,Pix,6.1,2025-01-02
+595-27-4851,Rio de Janeiro,Normal,Mulher,Moda,54.28,7,379.96,18:05,Pix,9.3,2025-01-02
+189-52-0236,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,99.55,7,696.85,12:07,Debito,7.6,2025-01-02
+503-07-0930,São Paulo,Membro,Homem,Esportes e Viagens,58.39,7,408.73,19:49,Cartao de Credito,8.2,2025-01-02
+413-20-6708,São Paulo,Membro,Mulher,Moda,51.47,1,51.47,15:52,Pix,8.5,2025-01-02
+425-85-2085,Manaus,Membro,Homem,Saude e Beleza,54.86,5,274.3,16:48,Pix,9.8,2025-01-02
+521-18-7827,São Paulo,Membro,Homem,Casa e Estilo de Vida,39.39,5,196.95,20:46,Cartao de Credito,8.7,2025-01-02
+220-28-1851,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,34.73,2,69.46,18:14,Pix,9.7,2025-01-02
+600-38-9738,São Paulo,Membro,Homem,Esportes e Viagens,71.92,5,359.6,15:05,Cartao de Credito,4.3,2025-01-02
+734-91-1155,Manaus,Normal,Mulher,Acessorios Eletronicos,45.71,3,137.13,10:34,Cartao de Credito,7.7,2025-01-02
+451-28-5717,São Paulo,Membro,Mulher,Casa e Estilo de Vida,83.17,6,499.02,11:23,Debito,7.3,2025-01-02
+609-81-8548,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,37.44,6,224.64,13:55,Cartao de Credito,5.9,2025-01-02
+133-14-7229,São Paulo,Normal,Homem,Saude e Beleza,62.87,2,125.74,11:43,Debito,5.0,2025-01-02
+534-01-4457,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,81.71,6,490.26,14:36,Cartao de Credito,8.0,2025-01-02
+719-89-8991,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,91.41,5,457.05,16:03,Pix,7.1,2025-01-02
+286-62-6248,Manaus,Normal,Homem,Moda,39.21,4,156.84,20:03,Cartao de Credito,9.0,2025-01-02
+339-38-9982,Manaus,Membro,Homem,Moda,59.86,2,119.72,14:55,Pix,6.7,2025-01-02
+827-44-5872,Manaus,Membro,Mulher,Alimentos e Bebidas,54.36,10,543.6,11:28,Cartao de Credito,6.1,2025-01-02
+827-77-7633,Rio de Janeiro,Normal,Homem,Esportes e Viagens,98.09,9,882.81,19:41,Debito,9.3,2025-01-02
+287-83-1405,Rio de Janeiro,Normal,Homem,Saude e Beleza,25.43,6,152.58,19:01,Pix,7.0,2025-01-02
+435-13-4908,Rio de Janeiro,Membro,Homem,Moda,86.68,8,693.44,18:04,Cartao de Credito,7.2,2025-01-02
+857-67-9057,Manaus,Normal,Homem,Acessorios Eletronicos,22.95,10,229.5,19:20,Pix,8.2,2025-01-02
+236-27-1144,São Paulo,Normal,Mulher,Alimentos e Bebidas,16.31,9,146.79,10:31,Pix,8.4,2025-01-02
+892-05-6689,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,28.32,5,141.6,13:28,Pix,6.2,2025-01-02
+583-41-4548,São Paulo,Normal,Homem,Casa e Estilo de Vida,16.67,7,116.69,11:36,Pix,7.4,2025-01-02
+339-12-4827,Manaus,Membro,Mulher,Moda,73.96,1,73.96,11:32,Cartao de Credito,5.0,2025-01-02
+643-38-7867,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,97.94,1,97.94,11:44,Pix,6.9,2025-01-02
+308-81-0538,Rio de Janeiro,Normal,Mulher,Moda,73.05,4,292.2,17:16,Cartao de Credito,4.9,2025-01-02
+358-88-9262,São Paulo,Membro,Mulher,Alimentos e Bebidas,87.48,6,524.88,18:43,Pix,5.1,2025-01-02
+460-35-4390,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,30.68,3,92.04,11:00,Pix,9.1,2025-01-02
+343-87-0864,São Paulo,Membro,Homem,Saude e Beleza,75.88,1,75.88,10:30,Cartao de Credito,7.1,2025-01-02
+173-50-1108,Manaus,Membro,Mulher,Esportes e Viagens,20.18,4,80.72,12:14,Cartao de Credito,5.0,2025-01-02
+243-47-2663,São Paulo,Membro,Homem,Acessorios Eletronicos,18.77,6,112.62,16:43,Cartao de Credito,5.5,2025-01-02
+841-18-8232,Manaus,Normal,Mulher,Alimentos e Bebidas,71.2,1,71.2,20:40,Cartao de Credito,9.2,2025-01-02
+701-23-5550,Manaus,Membro,Homem,Casa e Estilo de Vida,38.81,4,155.24,13:40,Pix,4.9,2025-01-02
+647-50-1224,Rio de Janeiro,Normal,Mulher,Moda,29.42,10,294.2,16:23,Pix,8.9,2025-01-02
+541-48-8554,Rio de Janeiro,Normal,Homem,Esportes e Viagens,60.95,9,548.55,12:08,Cartao de Credito,6.0,2025-01-02
+539-21-7227,Manaus,Normal,Mulher,Esportes e Viagens,51.54,5,257.7,17:45,Debito,4.2,2025-01-02
+213-32-1216,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,66.06,6,396.36,10:28,Debito,7.3,2025-01-02
+747-58-7183,Manaus,Normal,Homem,Moda,57.27,3,171.81,20:31,Pix,6.5,2025-01-02
+582-52-8065,Manaus,Normal,Mulher,Moda,54.31,9,488.79,10:49,Debito,8.9,2025-01-02
+210-57-1719,Manaus,Normal,Mulher,Saude e Beleza,58.24,9,524.16,12:34,Debito,9.7,2025-01-02
+399-69-4630,São Paulo,Normal,Homem,Acessorios Eletronicos,22.21,6,133.26,10:23,Cartao de Credito,8.6,2025-01-02
+134-75-2619,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,19.32,7,135.24,18:51,Debito,6.9,2025-01-02
+356-44-8813,Manaus,Normal,Homem,Casa e Estilo de Vida,37.48,3,112.44,13:45,Cartao de Credito,7.7,2025-01-02
+198-66-9832,Manaus,Membro,Mulher,Moda,72.04,2,144.08,19:38,Debito,9.5,2025-01-02
+283-26-5248,São Paulo,Membro,Mulher,Alimentos e Bebidas,98.52,10,985.2,20:23,Pix,4.5,2025-01-02
+712-39-0363,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,41.66,6,249.96,15:24,Pix,5.6,2025-01-02
+218-59-9410,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,72.42,3,217.26,16:54,Pix,8.2,2025-01-02
+174-75-0888,Manaus,Normal,Homem,Acessorios Eletronicos,21.58,9,194.22,12:32,Debito,7.3,2025-01-02
+866-99-7614,São Paulo,Normal,Homem,Alimentos e Bebidas,89.2,10,892.0,15:42,Cartao de Credito,4.4,2025-01-02
+134-54-4720,Manaus,Normal,Mulher,Acessorios Eletronicos,42.42,8,339.36,13:58,Pix,5.7,2025-01-02
+760-90-2357,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,74.51,6,447.06,15:08,Pix,5.0,2025-01-02
+514-37-2845,Manaus,Normal,Homem,Moda,99.25,2,198.5,13:02,Debito,9.0,2025-01-02
+698-98-5964,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,81.21,10,812.1,13:01,Cartao de Credito,6.3,2025-01-02
+718-57-9773,São Paulo,Normal,Mulher,Esportes e Viagens,49.33,10,493.3,16:40,Cartao de Credito,9.4,2025-01-02
+651-88-7328,Rio de Janeiro,Normal,Mulher,Moda,65.74,9,591.66,13:55,Debito,7.7,2025-01-02
+241-11-2261,Manaus,Normal,Mulher,Moda,79.86,7,559.02,10:33,Cartao de Credito,5.5,2025-01-02
+408-26-9866,São Paulo,Normal,Mulher,Esportes e Viagens,73.98,7,517.86,16:42,Pix,4.1,2025-01-02
+834-83-1826,Manaus,Membro,Mulher,Casa e Estilo de Vida,82.04,5,410.2,17:16,Cartao de Credito,7.6,2025-01-02
+343-61-3544,Manaus,Membro,Homem,Esportes e Viagens,26.67,10,266.7,11:48,Debito,8.6,2025-01-02
+239-48-4278,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,10.13,7,70.91,19:35,Pix,8.3,2025-01-02
+355-34-6244,Manaus,Normal,Homem,Alimentos e Bebidas,72.39,2,144.78,19:55,Cartao de Credito,8.1,2025-01-02
+550-84-8664,Rio de Janeiro,Normal,Homem,Esportes e Viagens,85.91,5,429.55,14:33,Cartao de Credito,8.6,2025-01-02
+339-96-8318,Manaus,Membro,Homem,Moda,81.31,7,569.17,19:49,Pix,6.3,2025-01-02
+458-61-0011,Manaus,Normal,Homem,Alimentos e Bebidas,60.3,4,241.2,18:43,Debito,5.8,2025-01-02
+592-34-6155,São Paulo,Normal,Homem,Alimentos e Bebidas,31.77,4,127.08,14:43,Pix,6.2,2025-01-02
+797-88-0493,Rio de Janeiro,Normal,Mulher,Saude e Beleza,64.27,4,257.08,13:54,Debito,7.7,2025-01-02
+207-73-1363,Manaus,Normal,Homem,Saude e Beleza,69.51,2,139.02,12:15,Pix,8.1,2025-01-02
+390-31-6381,São Paulo,Normal,Homem,Alimentos e Bebidas,27.22,3,81.66,12:37,Debito,7.3,2025-01-02
+443-82-0585,Rio de Janeiro,Membro,Mulher,Saude e Beleza,77.68,4,310.72,19:54,Debito,8.4,2025-01-02
+339-18-7061,São Paulo,Membro,Mulher,Moda,92.98,2,185.96,15:06,Cartao de Credito,8.0,2025-01-02
+359-90-3665,Manaus,Membro,Mulher,Moda,18.08,4,72.32,18:03,Cartao de Credito,9.5,2025-01-02
+375-72-3056,Manaus,Normal,Homem,Esportes e Viagens,63.06,3,189.18,15:58,Pix,7.0,2025-01-02
+127-47-6963,Rio de Janeiro,Normal,Homem,Saude e Beleza,51.71,4,206.84,13:53,Cartao de Credito,9.8,2025-01-02
+278-86-2735,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,52.34,3,157.02,14:03,Debito,9.2,2025-01-02
+695-28-6250,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,43.06,5,215.3,16:38,Pix,7.7,2025-01-02
+379-17-6588,São Paulo,Normal,Homem,Moda,59.61,10,596.1,11:07,Debito,5.3,2025-01-02
+227-50-3718,Rio de Janeiro,Normal,Homem,Saude e Beleza,14.62,5,73.1,12:23,Debito,4.4,2025-01-02
+302-15-2162,São Paulo,Membro,Homem,Saude e Beleza,46.53,6,279.18,10:54,Cartao de Credito,4.3,2025-01-02
+788-07-8452,São Paulo,Membro,Mulher,Casa e Estilo de Vida,24.24,7,169.68,17:38,Pix,9.4,2025-01-02
+560-49-6611,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,45.58,1,45.58,14:13,Debito,9.8,2025-01-02
+880-35-0356,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,75.2,3,225.6,11:51,Pix,4.8,2025-01-02
+585-11-6748,Manaus,Membro,Homem,Esportes e Viagens,96.8,3,290.4,13:05,Debito,5.3,2025-01-02
+470-31-3286,Manaus,Normal,Homem,Saude e Beleza,14.82,3,44.46,11:30,Cartao de Credito,8.7,2025-01-02
+152-68-2907,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,52.2,3,156.6,13:30,Cartao de Credito,9.5,2025-01-02
+123-35-4896,São Paulo,Normal,Mulher,Esportes e Viagens,46.66,9,419.94,19:11,Pix,5.3,2025-01-02
+258-69-7810,São Paulo,Normal,Mulher,Moda,36.85,5,184.25,18:53,Debito,9.2,2025-01-02
+334-64-2006,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,70.32,2,140.64,14:22,Pix,9.6,2025-01-02
+219-61-4139,São Paulo,Normal,Homem,Acessorios Eletronicos,83.08,1,83.08,17:16,Pix,6.4,2025-01-03
+881-41-7302,São Paulo,Normal,Mulher,Moda,64.99,1,64.99,10:06,Cartao de Credito,4.5,2025-01-03
+373-09-4567,São Paulo,Normal,Homem,Alimentos e Bebidas,77.56,10,775.6,20:35,Pix,6.9,2025-01-03
+642-30-6693,Manaus,Normal,Mulher,Esportes e Viagens,54.51,6,327.06,13:54,Pix,7.8,2025-01-03
+484-22-8230,São Paulo,Membro,Mulher,Moda,51.89,7,363.23,20:08,Debito,4.5,2025-01-03
+830-58-2383,Manaus,Normal,Homem,Casa e Estilo de Vida,31.75,4,127.0,15:26,Debito,8.6,2025-01-03
+559-98-9873,Rio de Janeiro,Membro,Mulher,Moda,53.65,7,375.55,12:56,Pix,5.2,2025-01-03
+544-32-5024,São Paulo,Membro,Mulher,Alimentos e Bebidas,49.79,4,199.16,19:16,Cartao de Credito,6.4,2025-01-03
+318-12-0304,Rio de Janeiro,Normal,Homem,Moda,30.61,1,30.61,12:20,Pix,5.2,2025-01-03
+349-97-8902,Manaus,Membro,Homem,Alimentos e Bebidas,57.89,2,115.78,10:37,Pix,8.9,2025-01-03
+421-95-9805,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,28.96,1,28.96,10:18,Cartao de Credito,6.2,2025-01-03
+277-35-5865,São Paulo,Membro,Mulher,Alimentos e Bebidas,98.97,9,890.73,11:23,Debito,6.7,2025-01-03
+789-23-8625,Manaus,Membro,Homem,Moda,93.22,3,279.66,11:45,Debito,7.2,2025-01-03
+284-54-4231,São Paulo,Membro,Homem,Esportes e Viagens,80.93,1,80.93,16:08,Cartao de Credito,9.0,2025-01-03
+443-59-0061,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,67.45,10,674.5,11:25,Pix,4.2,2025-01-03
+509-29-3912,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,38.72,9,348.48,12:24,Pix,4.2,2025-01-03
+327-40-9673,Manaus,Membro,Homem,Esportes e Viagens,72.6,6,435.6,19:51,Debito,6.9,2025-01-03
+840-19-2096,São Paulo,Membro,Homem,Acessorios Eletronicos,87.91,5,439.55,18:10,Pix,4.4,2025-01-03
+828-46-6863,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,98.53,6,591.18,11:22,Cartao de Credito,4.0,2025-01-03
+641-96-3695,São Paulo,Membro,Mulher,Moda,43.46,6,260.76,17:55,Pix,8.5,2025-01-03
+420-97-3340,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,71.68,3,215.04,15:30,Cartao de Credito,9.2,2025-01-03
+436-54-4512,Rio de Janeiro,Membro,Mulher,Alimentos e Bebidas,91.61,1,91.61,19:44,Debito,9.8,2025-01-03
+670-79-6321,Manaus,Membro,Mulher,Casa e Estilo de Vida,94.59,7,662.13,15:27,Cartao de Credito,4.9,2025-01-03
+852-62-7105,Manaus,Normal,Mulher,Moda,83.25,10,832.5,11:25,Cartao de Credito,4.4,2025-01-03
+598-06-7312,Manaus,Membro,Homem,Moda,91.35,1,91.35,15:42,Debito,6.8,2025-01-03
+135-13-8269,Manaus,Membro,Mulher,Alimentos e Bebidas,78.88,2,157.76,16:04,Debito,9.1,2025-01-03
+816-57-2053,Rio de Janeiro,Normal,Homem,Esportes e Viagens,60.87,2,121.74,12:37,Pix,8.7,2025-01-03
+628-90-8624,Manaus,Membro,Homem,Saude e Beleza,82.58,10,825.8,14:41,Debito,5.0,2025-01-03
+856-66-2701,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,53.3,3,159.9,14:19,Pix,7.5,2025-01-03
+308-39-1707,Rio de Janeiro,Normal,Mulher,Moda,12.09,1,12.09,18:19,Cartao de Credito,8.2,2025-01-03
+149-61-1929,Rio de Janeiro,Normal,Homem,Esportes e Viagens,64.19,10,641.9,14:08,Cartao de Credito,6.7,2025-01-03
+655-07-2265,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,78.31,3,234.93,16:38,Pix,5.4,2025-01-03
+589-02-8023,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,83.77,2,167.54,10:54,Cartao de Credito,7.0,2025-01-03
+420-04-7590,Manaus,Normal,Homem,Casa e Estilo de Vida,99.7,3,299.1,11:29,Pix,4.7,2025-01-03
+182-88-2763,Manaus,Membro,Homem,Alimentos e Bebidas,79.91,3,239.73,19:28,Cartao de Credito,5.0,2025-01-03
+188-55-0967,Manaus,Membro,Homem,Saude e Beleza,66.47,10,664.7,15:01,Cartao de Credito,5.0,2025-01-03
+610-46-4100,Rio de Janeiro,Normal,Homem,Saude e Beleza,28.95,7,202.65,20:31,Cartao de Credito,6.0,2025-01-03
+318-81-2368,São Paulo,Normal,Mulher,Acessorios Eletronicos,46.2,1,46.2,12:16,Debito,6.3,2025-01-03
+364-33-8584,Manaus,Membro,Mulher,Alimentos e Bebidas,17.63,5,88.15,15:27,Debito,8.5,2025-01-03
+665-63-9737,Manaus,Normal,Homem,Moda,52.42,3,157.26,17:36,Pix,7.5,2025-01-03
+695-09-5146,Manaus,Membro,Mulher,Alimentos e Bebidas,98.79,3,296.37,20:00,Pix,6.4,2025-01-03
+155-45-3814,São Paulo,Membro,Mulher,Acessorios Eletronicos,88.55,8,708.4,15:29,Pix,4.7,2025-01-03
+794-32-2436,Manaus,Membro,Homem,Acessorios Eletronicos,55.67,2,111.34,15:08,Pix,6.0,2025-01-03
+131-15-8856,São Paulo,Membro,Mulher,Alimentos e Bebidas,72.52,8,580.16,19:26,Cartao de Credito,4.0,2025-01-03
+273-84-2164,São Paulo,Membro,Homem,Acessorios Eletronicos,12.05,5,60.25,15:53,Pix,5.5,2025-01-03
+706-36-6154,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,19.36,9,174.24,18:43,Pix,8.7,2025-01-03
+778-89-7974,São Paulo,Normal,Homem,Saude e Beleza,70.21,6,421.26,14:58,Debito,7.4,2025-01-03
+574-31-8277,Manaus,Membro,Homem,Moda,33.63,1,33.63,19:55,Debito,5.6,2025-01-03
+859-71-0933,São Paulo,Membro,Mulher,Esportes e Viagens,15.49,2,30.98,15:10,Debito,6.3,2025-01-03
+740-11-5257,São Paulo,Normal,Homem,Acessorios Eletronicos,24.74,10,247.4,16:44,Debito,7.1,2025-01-03
+369-82-2676,Manaus,Normal,Homem,Acessorios Eletronicos,75.66,5,378.3,18:22,Pix,7.8,2025-01-03
+563-47-4072,Manaus,Normal,Mulher,Saude e Beleza,55.81,6,334.86,11:52,Debito,9.9,2025-01-03
+742-04-5161,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,72.78,10,727.8,17:24,Debito,7.3,2025-01-03
+149-15-7606,Manaus,Membro,Homem,Esportes e Viagens,37.32,9,335.88,15:31,Pix,5.1,2025-01-03
+133-77-3154,Manaus,Membro,Homem,Moda,60.18,4,240.72,18:04,Cartao de Credito,9.4,2025-01-03
+169-52-4504,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,15.69,3,47.07,14:13,Cartao de Credito,5.8,2025-01-03
+250-81-7186,São Paulo,Normal,Mulher,Acessorios Eletronicos,99.69,1,99.69,10:23,Cartao de Credito,8.0,2025-01-03
+562-12-5430,Rio de Janeiro,Membro,Mulher,Moda,88.15,3,264.45,10:11,Pix,7.9,2025-01-03
+816-72-8853,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,27.93,5,139.65,15:48,Debito,5.9,2025-01-03
+491-38-3499,Rio de Janeiro,Membro,Homem,Moda,55.45,1,55.45,17:46,Cartao de Credito,4.9,2025-01-03
+322-02-2271,Manaus,Normal,Mulher,Esportes e Viagens,42.97,3,128.91,11:46,Debito,9.3,2025-01-03
+842-29-4695,São Paulo,Membro,Homem,Esportes e Viagens,17.14,7,119.98,12:07,Cartao de Credito,7.9,2025-01-03
+725-67-2480,Manaus,Membro,Mulher,Moda,58.75,6,352.5,18:14,Cartao de Credito,5.9,2025-01-03
+641-51-2661,São Paulo,Membro,Mulher,Alimentos e Bebidas,87.1,10,871.0,14:45,Cartao de Credito,9.9,2025-01-03
+714-02-3114,São Paulo,Normal,Mulher,Esportes e Viagens,98.8,2,197.6,11:39,Debito,7.7,2025-01-03
+518-17-2983,Rio de Janeiro,Normal,Mulher,Moda,48.63,4,194.52,15:44,Pix,7.6,2025-01-03
+779-42-2410,Manaus,Membro,Homem,Alimentos e Bebidas,57.74,3,173.22,13:06,Pix,7.7,2025-01-03
+190-14-3147,Manaus,Normal,Mulher,Saude e Beleza,17.97,4,71.88,20:43,Pix,6.4,2025-01-03
+408-66-6712,São Paulo,Membro,Mulher,Saude e Beleza,47.71,6,286.26,14:19,Pix,4.4,2025-01-03
+679-22-6530,Manaus,Normal,Mulher,Esportes e Viagens,40.62,2,81.24,10:01,Cartao de Credito,4.1,2025-01-03
+588-47-8641,Rio de Janeiro,Membro,Homem,Moda,56.04,10,560.4,19:30,Pix,4.4,2025-01-03
+642-61-4706,Manaus,Membro,Homem,Alimentos e Bebidas,93.4,2,186.8,16:34,Debito,5.5,2025-01-03
+576-31-4774,Manaus,Normal,Mulher,Saude e Beleza,73.41,3,220.23,13:10,Pix,4.0,2025-01-03
+556-41-6224,São Paulo,Normal,Homem,Saude e Beleza,33.64,8,269.12,17:10,Cartao de Credito,9.3,2025-01-03
+811-03-8790,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,45.48,10,454.8,10:22,Cartao de Credito,4.8,2025-01-03
+242-11-3142,Manaus,Membro,Homem,Moda,83.77,2,167.54,19:57,Debito,4.6,2025-01-03
+752-23-3760,Manaus,Membro,Mulher,Esportes e Viagens,64.08,7,448.56,19:29,Cartao de Credito,7.3,2025-01-03
+274-05-5470,Rio de Janeiro,Membro,Mulher,Alimentos e Bebidas,73.47,4,293.88,18:30,Debito,6.0,2025-01-03
+648-94-3045,São Paulo,Normal,Homem,Saude e Beleza,58.95,10,589.5,14:27,Pix,8.1,2025-01-03
+130-67-4723,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,48.5,6,291.0,13:57,Pix,9.4,2025-01-03
+528-87-5606,Manaus,Membro,Mulher,Acessorios Eletronicos,39.48,1,39.48,19:43,Debito,6.5,2025-01-03
+320-85-2052,Manaus,Normal,Mulher,Esportes e Viagens,34.81,1,34.81,10:11,Cartao de Credito,7.0,2025-01-03
+370-96-0655,São Paulo,Normal,Mulher,Moda,49.32,6,295.92,13:46,Pix,7.1,2025-01-03
+105-10-6182,Rio de Janeiro,Membro,Homem,Moda,21.48,2,42.96,12:22,Pix,6.6,2025-01-03
+510-79-0415,Manaus,Membro,Mulher,Esportes e Viagens,23.08,6,138.48,19:20,Pix,4.9,2025-01-03
+241-96-5076,Manaus,Membro,Mulher,Casa e Estilo de Vida,49.1,2,98.2,12:58,Cartao de Credito,6.4,2025-01-03
+767-97-4650,Manaus,Membro,Mulher,Esportes e Viagens,64.83,2,129.66,11:59,Cartao de Credito,8.0,2025-01-03
+648-83-1321,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,63.56,10,635.6,17:59,Debito,4.3,2025-01-03
+173-57-2300,São Paulo,Membro,Homem,Esportes e Viagens,72.88,2,145.76,12:51,Debito,6.1,2025-01-03
+305-03-2383,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,67.1,3,201.3,10:36,Debito,7.5,2025-01-03
+394-55-6384,São Paulo,Membro,Mulher,Esportes e Viagens,70.19,9,631.71,13:38,Debito,6.7,2025-01-03
+266-20-6657,São Paulo,Membro,Homem,Alimentos e Bebidas,55.04,7,385.28,19:39,Pix,5.2,2025-01-03
+689-05-1884,Rio de Janeiro,Membro,Homem,Saude e Beleza,48.63,10,486.3,12:44,Debito,8.8,2025-01-03
+196-01-2849,São Paulo,Membro,Mulher,Moda,73.38,7,513.66,13:56,Debito,9.5,2025-01-03
+372-62-5264,São Paulo,Normal,Mulher,Alimentos e Bebidas,52.6,9,473.4,14:42,Debito,7.6,2025-01-03
+800-09-8606,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,87.37,5,436.85,19:45,Debito,6.6,2025-01-03
+182-52-7000,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,27.04,4,108.16,20:26,Pix,6.9,2025-01-03
+826-58-8051,Manaus,Normal,Homem,Casa e Estilo de Vida,62.19,4,248.76,19:46,Pix,4.3,2025-01-03
+868-06-0466,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,69.58,9,626.22,19:38,Cartao de Credito,7.8,2025-01-03
+751-41-9720,São Paulo,Normal,Homem,Casa e Estilo de Vida,97.5,10,975.0,16:18,Pix,8.0,2025-01-03
+626-43-7888,São Paulo,Normal,Mulher,Moda,60.41,8,483.28,12:23,Pix,9.6,2025-01-03
+176-64-7711,Manaus,Normal,Homem,Alimentos e Bebidas,32.32,3,96.96,19:11,Cartao de Credito,4.3,2025-01-03
+191-29-0321,Manaus,Membro,Mulher,Moda,19.77,10,197.7,18:57,Cartao de Credito,5.0,2025-01-03
+729-06-2010,Manaus,Membro,Homem,Saude e Beleza,80.47,9,724.23,11:18,Debito,9.2,2025-01-03
+640-48-5028,Manaus,Membro,Mulher,Casa e Estilo de Vida,88.39,9,795.51,12:40,Debito,6.3,2025-01-03
+186-79-9562,Manaus,Normal,Homem,Saude e Beleza,71.77,7,502.39,14:06,Debito,8.9,2025-01-03
+834-45-5519,Manaus,Normal,Mulher,Acessorios Eletronicos,43.0,4,172.0,20:48,Pix,7.6,2025-01-03
+162-65-8559,São Paulo,Membro,Homem,Alimentos e Bebidas,68.98,1,68.98,20:13,Debito,4.8,2025-01-03
+760-27-5490,São Paulo,Normal,Homem,Moda,15.62,8,124.96,20:37,Pix,9.1,2025-01-03
+445-30-9252,Rio de Janeiro,Normal,Homem,Esportes e Viagens,25.7,3,77.1,17:59,Pix,6.1,2025-01-03
+786-94-2700,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,80.62,6,483.72,20:18,Debito,9.1,2025-01-03
+728-88-7867,São Paulo,Membro,Mulher,Casa e Estilo de Vida,75.53,4,302.12,15:52,Pix,8.3,2025-01-03
+183-21-3799,São Paulo,Normal,Mulher,Acessorios Eletronicos,77.63,9,698.67,15:14,Pix,7.2,2025-01-03
+268-20-3585,São Paulo,Normal,Mulher,Saude e Beleza,13.85,9,124.65,12:50,Pix,6.0,2025-01-03
+735-32-9839,São Paulo,Membro,Homem,Moda,98.7,8,789.6,10:36,Pix,8.5,2025-01-03
+258-92-7466,Rio de Janeiro,Normal,Mulher,Saude e Beleza,35.68,5,178.4,18:33,Cartao de Credito,6.6,2025-01-03
+857-16-3520,Rio de Janeiro,Membro,Mulher,Moda,71.46,7,500.22,16:06,Pix,4.5,2025-01-03
+482-17-1179,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,11.94,3,35.82,12:47,Cartao de Credito,8.1,2025-01-03
+788-21-5741,Rio de Janeiro,Normal,Homem,Moda,45.38,3,136.14,13:34,Cartao de Credito,7.2,2025-01-03
+821-14-9046,Manaus,Membro,Mulher,Moda,17.48,6,104.88,15:04,Cartao de Credito,6.1,2025-01-03
+418-05-0656,Manaus,Normal,Mulher,Moda,25.56,7,178.92,20:42,Debito,7.1,2025-01-03
+678-79-0726,São Paulo,Membro,Mulher,Esportes e Viagens,90.63,9,815.67,15:28,Debito,5.1,2025-01-03
+776-68-1096,Manaus,Normal,Homem,Casa e Estilo de Vida,44.12,3,132.36,13:45,Cartao de Credito,7.9,2025-01-03
+592-46-1692,São Paulo,Membro,Mulher,Alimentos e Bebidas,36.77,7,257.39,20:10,Debito,7.4,2025-01-03
+434-35-9162,Manaus,Membro,Homem,Alimentos e Bebidas,23.34,4,93.36,18:53,Pix,7.4,2025-01-03
+149-14-0304,São Paulo,Membro,Mulher,Saude e Beleza,28.5,8,228.0,14:24,Debito,6.6,2025-01-03
+442-44-6497,São Paulo,Membro,Homem,Casa e Estilo de Vida,55.57,3,166.71,11:42,Cartao de Credito,5.9,2025-01-03
+174-64-0215,Manaus,Normal,Homem,Esportes e Viagens,69.74,10,697.4,17:49,Cartao de Credito,8.9,2025-01-03
+210-74-9613,São Paulo,Normal,Homem,Moda,97.26,4,389.04,15:33,Pix,6.8,2025-01-03
+299-29-0180,Manaus,Membro,Mulher,Casa e Estilo de Vida,52.18,7,365.26,10:54,Debito,9.3,2025-01-03
+247-11-2470,Rio de Janeiro,Membro,Mulher,Moda,22.32,4,89.28,16:23,Cartao de Credito,4.4,2025-01-03
+635-28-5728,Rio de Janeiro,Normal,Homem,Saude e Beleza,56.0,3,168.0,19:33,Pix,4.8,2025-01-03
+756-49-0168,Rio de Janeiro,Membro,Homem,Moda,19.7,1,19.7,11:39,Pix,9.5,2025-01-03
+438-23-1242,Manaus,Normal,Homem,Acessorios Eletronicos,75.88,7,531.16,10:38,Pix,8.9,2025-01-03
+238-45-6950,Manaus,Membro,Homem,Alimentos e Bebidas,53.72,1,53.72,20:03,Pix,6.4,2025-01-03
+607-65-2441,São Paulo,Membro,Homem,Saude e Beleza,81.95,10,819.5,12:39,Cartao de Credito,6.0,2025-01-03
+386-27-7606,São Paulo,Membro,Mulher,Casa e Estilo de Vida,81.2,7,568.4,15:59,Cartao de Credito,8.1,2025-01-03
+137-63-5492,São Paulo,Normal,Homem,Acessorios Eletronicos,58.76,10,587.6,14:26,Pix,9.0,2025-01-03
+197-77-7132,Manaus,Membro,Homem,Acessorios Eletronicos,91.56,8,732.48,18:22,Pix,6.0,2025-01-03
+805-86-0265,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,93.96,9,845.64,11:32,Debito,9.8,2025-01-03
+733-29-1227,São Paulo,Normal,Homem,Casa e Estilo de Vida,55.61,7,389.27,12:41,Debito,8.5,2025-01-03
+451-73-2711,São Paulo,Normal,Homem,Alimentos e Bebidas,84.83,1,84.83,15:20,Pix,8.8,2025-01-03
+373-14-0504,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,71.63,2,143.26,14:33,Pix,8.8,2025-01-03
+546-80-2899,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,37.69,2,75.38,15:29,Pix,9.5,2025-01-03
+345-68-9016,São Paulo,Membro,Mulher,Esportes e Viagens,31.67,8,253.36,16:19,Cartao de Credito,5.6,2025-01-03
+390-17-5806,São Paulo,Membro,Mulher,Alimentos e Bebidas,38.42,1,38.42,16:33,Debito,8.6,2025-01-03
+457-13-1708,Manaus,Membro,Homem,Moda,65.23,10,652.3,19:07,Cartao de Credito,5.2,2025-01-03
+664-14-2882,São Paulo,Membro,Mulher,Casa e Estilo de Vida,10.53,5,52.65,14:43,Cartao de Credito,5.8,2025-01-03
+487-79-6868,Manaus,Membro,Mulher,Casa e Estilo de Vida,12.29,9,110.61,19:28,Cartao de Credito,8.0,2025-01-03
+314-23-4520,São Paulo,Membro,Homem,Saude e Beleza,81.23,7,568.61,20:44,Debito,9.0,2025-01-03
+210-30-7976,Manaus,Membro,Mulher,Moda,22.32,4,89.28,11:16,Pix,4.1,2025-01-03
+585-86-8361,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,27.28,5,136.4,10:31,Cartao de Credito,8.6,2025-01-03
+807-14-7833,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,17.42,10,174.2,12:30,Pix,7.0,2025-01-03
+775-72-1988,Manaus,Normal,Homem,Casa e Estilo de Vida,73.28,5,366.4,15:05,Pix,8.4,2025-01-03
+288-38-3758,São Paulo,Membro,Mulher,Moda,84.87,3,254.61,18:30,Pix,7.4,2025-01-03
+652-43-6591,Rio de Janeiro,Normal,Mulher,Moda,97.29,8,778.32,13:18,Cartao de Credito,6.2,2025-01-03
+785-96-0615,Manaus,Membro,Mulher,Acessorios Eletronicos,35.74,8,285.92,15:28,Pix,4.9,2025-01-03
+406-46-7107,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,96.52,6,579.12,11:52,Debito,4.5,2025-01-03
+250-17-5703,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,18.85,10,188.5,18:24,Pix,5.6,2025-01-03
+156-95-3964,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,55.39,4,221.56,15:19,Pix,8.0,2025-01-03
+842-40-8179,Manaus,Membro,Mulher,Alimentos e Bebidas,77.2,10,772.0,10:38,Cartao de Credito,5.6,2025-01-03
+525-09-8450,Manaus,Normal,Homem,Acessorios Eletronicos,72.13,10,721.3,15:12,Cartao de Credito,4.2,2025-01-03
+410-67-1709,Rio de Janeiro,Membro,Mulher,Moda,63.88,8,511.04,17:48,Pix,9.9,2025-01-03
+587-73-4862,Rio de Janeiro,Membro,Mulher,Saude e Beleza,10.69,5,53.45,11:07,Pix,7.6,2025-01-03
+787-87-2010,Rio de Janeiro,Membro,Homem,Saude e Beleza,55.5,4,222.0,15:48,Cartao de Credito,6.6,2025-01-03
+593-14-4239,Manaus,Normal,Mulher,Casa e Estilo de Vida,95.46,8,763.68,19:40,Pix,4.7,2025-01-03
+801-88-0346,São Paulo,Normal,Mulher,Moda,76.06,3,228.18,20:30,Cartao de Credito,9.8,2025-01-03
+388-76-2555,Manaus,Normal,Homem,Esportes e Viagens,13.69,6,82.14,13:59,Debito,6.3,2025-01-03
+711-31-1234,Manaus,Normal,Mulher,Acessorios Eletronicos,95.64,4,382.56,18:51,Debito,7.9,2025-01-03
+886-54-6089,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,11.43,6,68.58,17:24,Debito,7.7,2025-01-03
+707-32-7409,Manaus,Membro,Mulher,Esportes e Viagens,95.54,4,382.16,11:58,Pix,4.5,2025-01-03
+759-98-4285,São Paulo,Membro,Mulher,Saude e Beleza,85.87,7,601.09,19:01,Cartao de Credito,8.0,2025-01-03
+201-63-8275,São Paulo,Membro,Mulher,Esportes e Viagens,67.99,7,475.93,16:50,Pix,5.7,2025-01-03
+471-06-8611,São Paulo,Normal,Mulher,Alimentos e Bebidas,52.42,1,52.42,10:22,Cartao de Credito,6.3,2025-01-03
+200-16-5952,São Paulo,Membro,Homem,Alimentos e Bebidas,65.65,2,131.3,16:46,Debito,6.0,2025-01-03
+120-54-2248,Manaus,Normal,Mulher,Alimentos e Bebidas,28.86,5,144.3,18:08,Cartao de Credito,8.0,2025-01-03
+102-77-2261,São Paulo,Membro,Homem,Saude e Beleza,65.31,7,457.17,18:02,Cartao de Credito,4.2,2025-01-03
+875-31-8302,Manaus,Normal,Homem,Esportes e Viagens,93.38,1,93.38,13:07,Debito,9.6,2025-01-03
+102-06-2002,São Paulo,Membro,Homem,Esportes e Viagens,25.25,5,126.25,17:52,Debito,6.1,2025-01-03
+457-94-0464,Manaus,Membro,Homem,Acessorios Eletronicos,87.87,9,790.83,20:32,Pix,5.6,2025-01-03
+629-42-4133,São Paulo,Normal,Homem,Saude e Beleza,21.8,8,174.4,19:24,Debito,8.3,2025-01-03
+534-53-3526,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,94.76,4,379.04,16:06,Pix,7.8,2025-01-03
+307-04-2070,Rio de Janeiro,Membro,Mulher,Moda,30.62,1,30.62,14:14,Cartao de Credito,4.1,2025-01-03
+468-99-7231,São Paulo,Normal,Mulher,Casa e Estilo de Vida,44.01,8,352.08,17:36,Debito,8.8,2025-01-03
+516-77-6464,São Paulo,Membro,Mulher,Saude e Beleza,10.16,5,50.8,13:08,Pix,4.1,2025-01-03
+404-91-5964,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,74.58,7,522.06,16:09,Cartao de Credito,9.0,2025-01-03
+886-77-9084,São Paulo,Normal,Homem,Acessorios Eletronicos,71.89,8,575.12,11:33,Pix,5.5,2025-01-03
+790-38-4466,São Paulo,Normal,Mulher,Saude e Beleza,10.99,5,54.95,10:18,Cartao de Credito,9.3,2025-01-03
+704-10-4056,São Paulo,Membro,Homem,Saude e Beleza,60.47,3,181.41,10:55,Cartao de Credito,5.6,2025-01-03
+497-37-6538,Rio de Janeiro,Normal,Homem,Esportes e Viagens,58.91,7,412.37,15:15,Pix,9.7,2025-01-03
+651-96-5970,Rio de Janeiro,Normal,Homem,Moda,46.41,1,46.41,20:06,Cartao de Credito,4.0,2025-01-03
+400-80-4065,São Paulo,Membro,Homem,Saude e Beleza,68.55,4,274.2,20:21,Cartao de Credito,9.2,2025-01-03
+744-16-7898,Manaus,Normal,Mulher,Casa e Estilo de Vida,97.37,10,973.7,13:48,Cartao de Credito,4.9,2025-01-03
+263-12-5321,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,92.6,7,648.2,12:52,Cartao de Credito,9.3,2025-01-03
+702-72-0487,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,46.61,2,93.22,12:28,Cartao de Credito,6.6,2025-01-03
+605-83-1050,Manaus,Normal,Homem,Moda,27.18,2,54.36,16:26,Pix,4.3,2025-01-03
+443-60-9639,São Paulo,Membro,Mulher,Casa e Estilo de Vida,60.87,1,60.87,13:24,Debito,5.5,2025-01-03
+864-24-7918,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,24.49,10,244.9,15:15,Debito,8.1,2025-01-03
+359-94-5395,Manaus,Normal,Homem,Saude e Beleza,92.78,1,92.78,10:50,Cartao de Credito,9.8,2025-01-03
+401-09-4232,São Paulo,Membro,Homem,Casa e Estilo de Vida,86.69,5,433.45,18:38,Pix,9.4,2025-01-03
+751-15-6198,Manaus,Normal,Homem,Esportes e Viagens,23.01,6,138.06,16:45,Pix,7.9,2025-01-03
+324-41-6833,São Paulo,Membro,Mulher,Acessorios Eletronicos,30.2,8,241.6,19:30,Pix,5.1,2025-01-03
+474-33-8305,São Paulo,Membro,Homem,Moda,67.39,7,471.73,13:23,Pix,6.9,2025-01-03
+759-29-9521,Rio de Janeiro,Membro,Mulher,Moda,48.96,9,440.64,11:27,Debito,8.0,2025-01-03
+831-81-6575,Manaus,Membro,Mulher,Acessorios Eletronicos,75.59,9,680.31,11:12,Debito,8.0,2025-01-03
+220-68-6701,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,77.47,4,309.88,16:36,Debito,4.2,2025-01-03
+618-34-8551,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,93.18,2,186.36,18:41,Cartao de Credito,8.5,2025-01-03
+257-60-7754,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,50.23,4,200.92,17:12,Debito,9.0,2025-01-03
+559-61-5987,Manaus,Normal,Mulher,Saude e Beleza,17.75,1,17.75,10:38,Debito,8.6,2025-01-03
+189-55-2313,São Paulo,Normal,Mulher,Moda,62.18,10,621.8,10:33,Pix,6.0,2025-01-03
+565-91-4567,Manaus,Normal,Homem,Saude e Beleza,10.75,8,86.0,14:38,Pix,6.2,2025-01-03
+380-60-5336,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,40.26,10,402.6,18:06,Cartao de Credito,5.0,2025-01-03
+815-04-6282,São Paulo,Membro,Mulher,Esportes e Viagens,64.97,5,324.85,12:52,Cartao de Credito,6.5,2025-01-03
+674-56-6360,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,95.15,1,95.15,14:00,Debito,6.0,2025-01-03
+778-34-2523,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,48.62,8,388.96,10:57,Debito,5.0,2025-01-03
+499-27-7781,Manaus,Normal,Mulher,Alimentos e Bebidas,53.21,8,425.68,16:45,Pix,5.0,2025-01-03
+477-59-2456,São Paulo,Normal,Mulher,Moda,45.44,7,318.08,11:15,Debito,9.2,2025-01-03
+832-51-6761,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,33.88,8,271.04,20:29,Pix,9.6,2025-01-03
+869-11-3082,Manaus,Membro,Homem,Saude e Beleza,96.16,4,384.64,20:03,Cartao de Credito,8.4,2025-01-03
+190-59-3964,Manaus,Membro,Homem,Alimentos e Bebidas,47.16,5,235.8,14:35,Cartao de Credito,6.0,2025-01-03
+366-43-6862,Manaus,Normal,Homem,Acessorios Eletronicos,52.89,4,211.56,16:32,Pix,6.7,2025-01-03
+186-43-8965,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,47.68,2,95.36,10:10,Cartao de Credito,4.1,2025-01-03
+784-21-9238,São Paulo,Membro,Homem,Esportes e Viagens,10.17,1,10.17,14:15,Debito,5.9,2025-01-03
+276-75-6884,Rio de Janeiro,Normal,Mulher,Saude e Beleza,68.71,3,206.13,10:05,Debito,8.7,2025-01-03
+109-86-4363,Manaus,Membro,Mulher,Esportes e Viagens,60.08,7,420.56,11:36,Cartao de Credito,4.5,2025-01-03
+569-76-2760,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,22.01,4,88.04,18:15,Cartao de Credito,6.6,2025-01-03
+222-42-0244,Manaus,Membro,Mulher,Saude e Beleza,72.11,9,648.99,13:53,Cartao de Credito,7.7,2025-01-03
+760-53-9233,Rio de Janeiro,Membro,Homem,Moda,41.28,3,123.84,18:37,Cartao de Credito,8.5,2025-01-03
+538-22-0304,São Paulo,Normal,Homem,Acessorios Eletronicos,64.95,10,649.5,18:27,Debito,5.2,2025-01-03
+416-17-9926,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,74.22,10,742.2,14:42,Cartao de Credito,4.3,2025-01-03
+237-44-6163,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,10.56,8,84.48,17:43,Debito,7.6,2025-01-03
+636-17-0325,Manaus,Normal,Homem,Saude e Beleza,62.57,4,250.28,18:37,Debito,9.5,2025-01-03
+343-75-9322,Manaus,Membro,Mulher,Esportes e Viagens,11.85,8,94.8,16:34,Debito,4.1,2025-01-03
+528-14-9470,Rio de Janeiro,Membro,Homem,Saude e Beleza,91.3,1,91.3,14:42,Pix,9.2,2025-01-03
+427-45-9297,Manaus,Membro,Mulher,Casa e Estilo de Vida,40.73,7,285.11,11:01,Pix,5.4,2025-01-03
+807-34-3742,Rio de Janeiro,Normal,Homem,Moda,52.38,1,52.38,19:44,Debito,5.8,2025-01-03
+288-62-1085,Rio de Janeiro,Membro,Homem,Moda,38.54,5,192.7,13:34,Pix,5.6,2025-01-03
+670-71-7306,Manaus,Normal,Homem,Esportes e Viagens,44.63,6,267.78,20:08,Cartao de Credito,5.1,2025-01-03
+660-29-7083,São Paulo,Normal,Homem,Acessorios Eletronicos,55.87,10,558.7,15:01,Debito,5.8,2025-01-03
+271-77-8740,São Paulo,Membro,Mulher,Esportes e Viagens,29.22,6,175.32,11:40,Pix,5.0,2025-01-03
+497-36-0989,Rio de Janeiro,Normal,Homem,Moda,51.94,3,155.82,15:21,Debito,7.9,2025-01-03
+291-59-1384,Manaus,Normal,Homem,Acessorios Eletronicos,60.3,1,60.3,17:38,Debito,6.0,2025-01-03
+860-73-6466,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,39.47,2,78.94,16:16,Cartao de Credito,5.0,2025-01-03
+549-23-9016,São Paulo,Membro,Mulher,Alimentos e Bebidas,14.87,2,29.74,18:15,Cartao de Credito,8.9,2025-01-03
+896-34-0956,Rio de Janeiro,Normal,Homem,Moda,21.32,1,21.32,12:43,Debito,5.9,2025-01-03
+804-38-3935,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,93.78,3,281.34,11:32,Cartao de Credito,5.9,2025-01-03
+585-90-0249,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,73.26,1,73.26,18:08,Pix,9.7,2025-01-03
+862-29-5914,São Paulo,Normal,Mulher,Esportes e Viagens,22.38,1,22.38,17:08,Cartao de Credito,8.6,2025-01-03
+845-94-6841,São Paulo,Membro,Mulher,Alimentos e Bebidas,72.88,9,655.92,19:38,Debito,4.0,2025-01-03
+125-45-2293,Rio de Janeiro,Normal,Mulher,Moda,99.1,6,594.6,13:11,Debito,4.2,2025-01-03
+843-73-4724,Rio de Janeiro,Normal,Homem,Moda,74.1,1,74.1,11:05,Debito,9.2,2025-01-03
+409-33-9708,Rio de Janeiro,Normal,Mulher,Moda,98.48,2,196.96,10:12,Pix,9.2,2025-01-03
+658-66-3967,São Paulo,Normal,Homem,Saude e Beleza,53.19,7,372.33,15:42,Pix,5.0,2025-01-03
+866-70-2814,Manaus,Normal,Mulher,Acessorios Eletronicos,52.79,10,527.9,11:58,Pix,10.0,2025-01-03
+160-22-2687,Rio de Janeiro,Membro,Mulher,Saude e Beleza,95.95,5,479.75,14:21,Pix,8.8,2025-01-03
+895-03-6665,Manaus,Normal,Mulher,Moda,36.51,9,328.59,10:52,Debito,4.2,2025-01-03
+770-42-8960,Manaus,Normal,Homem,Alimentos e Bebidas,21.12,8,168.96,19:31,Debito,6.3,2025-01-03
+748-45-2862,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,28.31,4,113.24,18:35,Debito,8.2,2025-01-03
+234-36-2483,Manaus,Normal,Homem,Saude e Beleza,57.59,6,345.54,13:51,Debito,5.1,2025-01-03
+316-66-3011,Rio de Janeiro,Membro,Mulher,Alimentos e Bebidas,47.63,9,428.67,12:35,Debito,5.0,2025-01-03
+848-95-6252,São Paulo,Membro,Mulher,Casa e Estilo de Vida,86.27,1,86.27,13:24,Pix,7.0,2025-01-03
+840-76-5966,Rio de Janeiro,Membro,Homem,Esportes e Viagens,12.76,2,25.52,18:06,Pix,7.8,2025-01-03
+152-03-4217,Manaus,Normal,Mulher,Casa e Estilo de Vida,11.28,9,101.52,11:55,Cartao de Credito,4.3,2025-01-03
+533-66-5566,Manaus,Normal,Mulher,Casa e Estilo de Vida,51.07,7,357.49,11:42,Debito,7.0,2025-01-03
+124-31-1458,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,79.59,3,238.77,14:30,Debito,6.6,2025-01-03
+176-78-1170,São Paulo,Membro,Homem,Saude e Beleza,33.81,3,101.43,15:11,Pix,7.3,2025-01-03
+361-59-0574,Manaus,Membro,Homem,Esportes e Viagens,90.53,8,724.24,14:48,Cartao de Credito,6.5,2025-01-03
+101-81-4070,São Paulo,Membro,Mulher,Saude e Beleza,62.82,2,125.64,12:36,Pix,4.9,2025-01-03
+631-34-1880,São Paulo,Membro,Homem,Alimentos e Bebidas,24.31,3,72.93,19:09,Cartao de Credito,4.3,2025-01-03
+852-82-2749,Rio de Janeiro,Normal,Homem,Esportes e Viagens,64.59,4,258.36,13:35,Pix,9.3,2025-01-03
+873-14-6353,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,24.82,7,173.74,10:33,Cartao de Credito,7.1,2025-01-03
+584-66-4073,São Paulo,Normal,Homem,Moda,56.5,1,56.5,15:45,Pix,9.6,2025-01-03
+544-55-9589,Manaus,Membro,Mulher,Acessorios Eletronicos,21.43,10,214.3,11:51,Debito,6.2,2025-01-03
+166-19-2553,Rio de Janeiro,Membro,Homem,Esportes e Viagens,89.06,6,534.36,17:26,Debito,9.9,2025-01-03
+737-88-5876,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,23.29,4,93.16,11:52,Cartao de Credito,5.9,2025-01-03
+154-87-7367,São Paulo,Normal,Homem,Casa e Estilo de Vida,65.26,8,522.08,14:04,Pix,6.3,2025-01-03
+885-56-0389,São Paulo,Membro,Homem,Moda,52.35,1,52.35,17:49,Debito,4.0,2025-01-03
+608-05-3804,Manaus,Membro,Homem,Acessorios Eletronicos,39.75,1,39.75,20:19,Debito,6.1,2025-01-03
+448-61-3783,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,90.02,8,720.16,16:08,Cartao de Credito,4.5,2025-01-03
+761-49-0439,Manaus,Membro,Mulher,Acessorios Eletronicos,12.1,8,96.8,10:17,Pix,8.6,2025-01-03
+490-95-0021,Manaus,Membro,Mulher,Alimentos e Bebidas,33.21,10,332.1,14:25,Pix,6.0,2025-01-03
+115-38-7388,São Paulo,Membro,Mulher,Moda,10.18,8,81.44,12:51,Cartao de Credito,9.5,2025-01-03
+311-13-6971,Manaus,Membro,Homem,Esportes e Viagens,31.99,10,319.9,15:18,Cartao de Credito,9.9,2025-01-03
+291-55-6563,Rio de Janeiro,Membro,Mulher,Casa e Estilo de Vida,34.42,6,206.52,12:45,Pix,7.5,2025-01-03
+548-48-3156,Rio de Janeiro,Membro,Mulher,Alimentos e Bebidas,83.34,2,166.68,13:37,Debito,7.6,2025-01-03
+460-93-5834,Rio de Janeiro,Normal,Homem,Esportes e Viagens,45.58,7,319.06,10:03,Debito,5.0,2025-01-03
+325-89-4209,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,87.9,1,87.9,19:42,Pix,6.7,2025-01-03
+884-80-6021,Rio de Janeiro,Membro,Mulher,Acessorios Eletronicos,73.47,10,734.7,13:14,Pix,9.5,2025-01-03
+137-74-8729,São Paulo,Normal,Mulher,Moda,12.19,8,97.52,12:47,Pix,6.8,2025-01-03
+880-46-5796,Rio de Janeiro,Membro,Homem,Esportes e Viagens,76.92,10,769.2,19:53,Pix,5.6,2025-01-03
+389-70-2397,São Paulo,Normal,Mulher,Saude e Beleza,83.66,5,418.3,10:26,Debito,7.2,2025-01-03
+114-35-5271,Manaus,Normal,Mulher,Acessorios Eletronicos,57.91,8,463.28,15:06,Debito,8.1,2025-01-03
+607-76-6216,São Paulo,Membro,Mulher,Moda,92.49,5,462.45,16:35,Cartao de Credito,8.6,2025-01-03
+715-20-1673,Manaus,Normal,Homem,Acessorios Eletronicos,28.38,5,141.9,20:57,Debito,9.4,2025-01-03
+811-35-1094,Manaus,Membro,Homem,Acessorios Eletronicos,50.45,6,302.7,15:16,Cartao de Credito,8.9,2025-01-03
+699-88-1972,Manaus,Normal,Homem,Saude e Beleza,99.16,8,793.28,17:47,Cartao de Credito,4.2,2025-01-03
+781-84-8059,São Paulo,Normal,Homem,Moda,60.74,7,425.18,16:23,Pix,5.0,2025-01-03
+409-49-6995,São Paulo,Membro,Mulher,Alimentos e Bebidas,47.27,6,283.62,10:17,Debito,8.8,2025-01-03
+725-54-0677,São Paulo,Membro,Homem,Saude e Beleza,85.6,7,599.2,13:50,Debito,5.3,2025-01-03
+146-09-5432,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,35.04,9,315.36,19:17,Pix,4.6,2025-01-03
+377-79-7592,São Paulo,Membro,Mulher,Acessorios Eletronicos,44.84,9,403.56,14:00,Cartao de Credito,7.5,2025-01-01
+509-10-0516,Manaus,Normal,Homem,Casa e Estilo de Vida,45.97,4,183.88,12:02,Pix,5.1,2025-01-01
+595-94-9924,Rio de Janeiro,Membro,Mulher,Saude e Beleza,27.73,5,138.65,20:21,Cartao de Credito,4.2,2025-01-01
+865-41-9075,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,11.53,7,80.71,17:35,Debito,8.1,2025-01-01
+545-07-8534,São Paulo,Normal,Mulher,Saude e Beleza,58.32,2,116.64,12:42,Pix,6.0,2025-01-01
+118-62-1812,São Paulo,Membro,Mulher,Casa e Estilo de Vida,78.38,4,313.52,17:56,Debito,7.9,2025-01-01
+450-42-3339,São Paulo,Normal,Homem,Saude e Beleza,84.61,10,846.1,18:58,Cartao de Credito,8.8,2025-01-01
+851-98-3555,Manaus,Normal,Mulher,Saude e Beleza,82.88,5,414.4,14:08,Cartao de Credito,6.6,2025-01-01
+186-71-5196,Rio de Janeiro,Membro,Mulher,Alimentos e Bebidas,79.54,2,159.08,16:30,Pix,6.2,2025-01-01
+624-01-8356,Manaus,Normal,Mulher,Casa e Estilo de Vida,49.01,10,490.1,10:44,Cartao de Credito,4.2,2025-01-01
+313-66-9943,Manaus,Membro,Mulher,Alimentos e Bebidas,29.15,3,87.45,20:29,Cartao de Credito,7.3,2025-01-01
+151-27-8496,São Paulo,Normal,Mulher,Acessorios Eletronicos,56.13,4,224.52,11:43,Pix,8.6,2025-01-01
+453-33-6436,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,93.12,8,744.96,10:09,Debito,6.8,2025-01-01
+522-57-8364,Rio de Janeiro,Membro,Homem,Moda,51.34,8,410.72,10:00,Pix,7.6,2025-01-01
+459-45-2396,Rio de Janeiro,Membro,Mulher,Alimentos e Bebidas,99.6,3,298.8,18:45,Debito,5.8,2025-01-01
+717-96-4189,São Paulo,Normal,Mulher,Acessorios Eletronicos,35.49,6,212.94,12:40,Debito,4.1,2025-01-01
+722-13-2115,São Paulo,Membro,Homem,Esportes e Viagens,42.85,1,42.85,15:36,Cartao de Credito,9.3,2025-01-01
+749-81-8133,Rio de Janeiro,Normal,Mulher,Moda,94.67,4,378.68,12:04,Debito,6.8,2025-01-01
+777-67-2495,Manaus,Normal,Homem,Casa e Estilo de Vida,68.97,3,206.91,11:26,Pix,8.7,2025-01-01
+636-98-3364,Manaus,Membro,Mulher,Acessorios Eletronicos,26.26,3,78.78,12:36,Pix,6.3,2025-01-01
+246-55-6923,São Paulo,Membro,Mulher,Casa e Estilo de Vida,35.79,9,322.11,15:06,Cartao de Credito,5.1,2025-01-01
+181-82-6255,Manaus,Normal,Mulher,Casa e Estilo de Vida,16.37,6,98.22,10:58,Debito,7.0,2025-01-01
+838-02-1821,São Paulo,Membro,Mulher,Casa e Estilo de Vida,12.73,2,25.46,12:10,Cartao de Credito,5.2,2025-01-01
+887-42-0517,São Paulo,Normal,Mulher,Esportes e Viagens,83.14,7,581.98,10:31,Cartao de Credito,6.6,2025-01-01
+457-12-0244,São Paulo,Membro,Mulher,Esportes e Viagens,35.22,6,211.32,13:49,Pix,6.5,2025-01-01
+226-34-0034,Manaus,Normal,Mulher,Acessorios Eletronicos,13.78,4,55.12,11:10,Pix,9.0,2025-01-01
+321-49-7382,Manaus,Membro,Homem,Esportes e Viagens,88.31,1,88.31,17:38,Cartao de Credito,5.2,2025-01-01
+397-25-8725,Rio de Janeiro,Membro,Mulher,Saude e Beleza,39.62,9,356.58,17:54,Cartao de Credito,6.8,2025-01-01
+431-66-2305,Manaus,Normal,Mulher,Acessorios Eletronicos,88.25,9,794.25,20:51,Cartao de Credito,7.6,2025-01-01
+825-94-5922,Manaus,Normal,Homem,Esportes e Viagens,25.31,2,50.62,19:26,Pix,7.2,2025-01-01
+641-62-7288,Manaus,Normal,Homem,Casa e Estilo de Vida,99.92,6,599.52,13:33,Pix,7.1,2025-01-01
+756-93-1854,São Paulo,Membro,Mulher,Moda,83.35,2,166.7,14:05,Cartao de Credito,9.5,2025-01-01
+243-55-8457,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,74.44,10,744.4,11:40,Pix,5.1,2025-01-01
+458-10-8612,São Paulo,Normal,Homem,Saude e Beleza,64.08,7,448.56,12:27,Pix,7.6,2025-01-01
+501-61-1753,Manaus,Normal,Mulher,Casa e Estilo de Vida,63.15,6,378.9,20:24,Pix,9.8,2025-01-01
+235-06-8510,São Paulo,Membro,Homem,Casa e Estilo de Vida,85.72,3,257.16,20:59,Pix,5.1,2025-01-01
+433-08-7822,São Paulo,Normal,Mulher,Saude e Beleza,78.89,7,552.23,19:48,Pix,7.5,2025-01-01
+361-85-2571,Rio de Janeiro,Normal,Mulher,Esportes e Viagens,89.48,5,447.4,10:18,Debito,7.4,2025-01-01
+131-70-8179,Rio de Janeiro,Membro,Mulher,Saude e Beleza,92.09,3,276.27,16:27,Debito,4.2,2025-01-01
+500-02-2261,São Paulo,Normal,Mulher,Alimentos e Bebidas,57.29,6,343.74,17:04,Pix,5.9,2025-01-01
+720-72-2436,Rio de Janeiro,Normal,Homem,Alimentos e Bebidas,66.52,4,266.08,18:14,Pix,6.9,2025-01-01
+702-83-5291,São Paulo,Membro,Homem,Moda,99.82,9,898.38,10:43,Debito,6.6,2025-01-01
+809-69-9497,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,45.68,10,456.8,19:30,Pix,5.7,2025-01-01
+449-16-6770,Rio de Janeiro,Normal,Homem,Saude e Beleza,50.79,5,253.95,14:53,Cartao de Credito,5.3,2025-01-01
+333-23-2632,Rio de Janeiro,Membro,Homem,Saude e Beleza,10.08,7,70.56,20:14,Debito,4.2,2025-01-01
+489-82-1237,Rio de Janeiro,Normal,Mulher,Acessorios Eletronicos,93.88,7,657.16,11:51,Cartao de Credito,7.3,2025-01-01
+859-97-6048,São Paulo,Membro,Homem,Acessorios Eletronicos,84.25,2,168.5,14:13,Cartao de Credito,5.3,2025-01-01
+676-10-2200,Manaus,Membro,Homem,Moda,53.78,1,53.78,20:13,Pix,4.7,2025-01-01
+373-88-1424,São Paulo,Membro,Homem,Casa e Estilo de Vida,35.81,5,179.05,18:44,Pix,7.9,2025-01-01
+365-16-4334,Manaus,Normal,Mulher,Alimentos e Bebidas,26.43,8,211.44,14:26,Pix,8.9,2025-01-01
+503-21-4385,Manaus,Membro,Homem,Saude e Beleza,39.91,3,119.73,12:40,Pix,9.3,2025-01-01
+305-89-2768,Manaus,Membro,Mulher,Casa e Estilo de Vida,21.9,3,65.7,18:43,Pix,4.7,2025-01-01
+574-80-1489,Manaus,Membro,Mulher,Alimentos e Bebidas,62.85,4,251.4,13:22,Pix,8.7,2025-01-01
+784-08-0310,São Paulo,Membro,Mulher,Alimentos e Bebidas,21.04,4,84.16,13:58,Debito,7.6,2025-01-01
+200-40-6154,Manaus,Membro,Homem,Casa e Estilo de Vida,65.91,6,395.46,11:45,Debito,5.7,2025-01-01
+846-10-0341,Rio de Janeiro,Normal,Mulher,Moda,42.57,7,297.99,11:51,Debito,6.8,2025-01-01
+577-34-7579,São Paulo,Membro,Homem,Alimentos e Bebidas,50.49,9,454.41,17:16,Debito,5.4,2025-01-01
+430-02-3888,Manaus,Normal,Homem,Acessorios Eletronicos,46.02,6,276.12,15:55,Debito,7.1,2025-01-01
+867-47-1948,São Paulo,Normal,Mulher,Casa e Estilo de Vida,15.8,10,158.0,12:07,Debito,7.8,2025-01-01
+384-59-6655,Rio de Janeiro,Membro,Mulher,Alimentos e Bebidas,98.66,9,887.94,15:07,Debito,8.4,2025-01-01
+256-58-3609,São Paulo,Membro,Homem,Moda,91.98,1,91.98,15:29,Debito,9.8,2025-01-01
+324-92-3863,Rio de Janeiro,Membro,Homem,Acessorios Eletronicos,20.89,2,41.78,18:45,Debito,9.8,2025-01-01
+593-08-5916,Rio de Janeiro,Normal,Mulher,Moda,15.5,1,15.5,15:23,Cartao de Credito,7.4,2025-01-01
+364-34-2972,São Paulo,Membro,Homem,Acessorios Eletronicos,96.82,3,290.46,20:37,Debito,6.7,2025-01-01
+794-42-3736,Manaus,Normal,Homem,Alimentos e Bebidas,33.33,2,66.66,14:41,Cartao de Credito,6.4,2025-01-01
+172-42-8274,Manaus,Normal,Mulher,Acessorios Eletronicos,38.27,2,76.54,18:18,Cartao de Credito,5.8,2025-01-01
+558-60-5016,Rio de Janeiro,Normal,Mulher,Casa e Estilo de Vida,33.3,9,299.7,15:27,Pix,7.2,2025-01-01
+195-06-0432,Rio de Janeiro,Membro,Homem,Casa e Estilo de Vida,81.01,3,243.03,12:55,Cartao de Credito,9.3,2025-01-01
+605-03-2706,Rio de Janeiro,Normal,Mulher,Saude e Beleza,15.8,3,47.4,18:02,Debito,9.5,2025-01-01
+214-30-2776,Manaus,Membro,Mulher,Acessorios Eletronicos,34.49,5,172.45,19:44,Cartao de Credito,9.0,2025-01-01
+746-04-1077,Manaus,Membro,Mulher,Alimentos e Bebidas,84.63,10,846.3,11:36,Cartao de Credito,9.0,2025-01-01
+448-34-8700,Manaus,Membro,Homem,Casa e Estilo de Vida,36.91,7,258.37,13:51,Pix,6.7,2025-01-01
+452-04-8808,Manaus,Normal,Homem,Acessorios Eletronicos,87.08,7,609.56,15:17,Debito,5.5,2025-01-01
+531-56-4728,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,80.08,3,240.24,15:29,Debito,5.4,2025-01-01
+744-82-9138,São Paulo,Normal,Homem,Moda,86.13,2,172.26,17:59,Debito,8.2,2025-01-01
+883-69-1285,Manaus,Membro,Homem,Moda,49.92,2,99.84,11:55,Cartao de Credito,7.0,2025-01-01
+221-25-5073,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,74.66,4,298.64,10:39,Debito,8.5,2025-01-01
+518-71-6847,Manaus,Membro,Homem,Alimentos e Bebidas,26.6,6,159.6,15:10,Pix,4.9,2025-01-01
+156-20-0370,Manaus,Normal,Mulher,Acessorios Eletronicos,25.45,1,25.45,18:10,Cartao de Credito,5.1,2025-01-01
+151-33-7434,Manaus,Normal,Mulher,Alimentos e Bebidas,67.77,1,67.77,20:43,Cartao de Credito,6.5,2025-01-01
+728-47-9078,São Paulo,Membro,Homem,Alimentos e Bebidas,59.59,4,238.36,12:46,Debito,9.8,2025-01-01
+809-46-1866,Rio de Janeiro,Normal,Homem,Saude e Beleza,58.15,4,232.6,17:44,Debito,8.4,2025-01-01
+139-32-4183,Rio de Janeiro,Membro,Mulher,Esportes e Viagens,97.48,9,877.32,14:19,Pix,7.4,2025-01-01
+148-41-7930,São Paulo,Normal,Homem,Saude e Beleza,99.96,7,699.72,10:33,Debito,6.1,2025-01-01
+189-40-5216,São Paulo,Normal,Homem,Acessorios Eletronicos,96.37,7,674.59,11:40,Debito,6.0,2025-01-01
+374-38-5555,Manaus,Normal,Mulher,Moda,63.71,5,318.55,19:30,Pix,8.5,2025-01-01
+764-44-8999,Manaus,Normal,Mulher,Saude e Beleza,14.76,2,29.52,14:42,Pix,4.3,2025-01-01
+552-44-5977,Manaus,Membro,Homem,Saude e Beleza,62.0,8,496.0,19:08,Cartao de Credito,6.2,2025-01-01
+267-62-7380,São Paulo,Membro,Homem,Acessorios Eletronicos,82.34,10,823.4,19:12,Pix,4.3,2025-01-01
+430-53-4718,Manaus,Membro,Homem,Saude e Beleza,75.37,8,602.96,15:46,Cartao de Credito,8.4,2025-01-01
+886-18-2897,Rio de Janeiro,Normal,Mulher,Alimentos e Bebidas,56.56,5,282.8,19:06,Cartao de Credito,4.5,2025-01-01
+602-16-6955,Manaus,Normal,Mulher,Esportes e Viagens,76.6,10,766.0,18:10,Pix,6.0,2025-01-01
+745-74-0715,Rio de Janeiro,Normal,Homem,Acessorios Eletronicos,58.03,2,116.06,20:46,Pix,8.8,2025-01-01
+690-01-6631,Manaus,Normal,Homem,Moda,17.49,10,174.9,18:35,Pix,6.6,2025-01-01
+652-49-6720,São Paulo,Membro,Mulher,Acessorios Eletronicos,60.95,1,60.95,11:40,Pix,5.9,2025-01-01
+233-67-5758,São Paulo,Normal,Homem,Saude e Beleza,40.35,1,40.35,13:46,Pix,6.2,2025-01-01
+303-96-2227,Manaus,Normal,Mulher,Casa e Estilo de Vida,97.38,10,973.8,17:16,Pix,4.4,2025-01-01
+727-02-1313,Rio de Janeiro,Membro,Homem,Alimentos e Bebidas,31.84,1,31.84,13:22,Debito,7.7,2025-01-01
+347-56-2442,Rio de Janeiro,Normal,Homem,Casa e Estilo de Vida,65.82,1,65.82,15:33,Debito,4.1,2025-01-01
+849-09-3807,Rio de Janeiro,Membro,Mulher,Moda,88.34,7,618.38,13:28,Debito,6.6,2025-01-01
