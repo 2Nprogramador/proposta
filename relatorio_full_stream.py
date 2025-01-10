@@ -59,7 +59,7 @@ def relatorio_por_dia_com_variacoes(dia):
         "crosstab_cidade_payment": crosstab_cidade_payment,
     }
 
-
+st.set_page_config(layout="wide")
 # Configuração do título do aplicativo
 st.title("Relatório Diário de Vendas com Variações")
 
