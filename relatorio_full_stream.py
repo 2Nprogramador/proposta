@@ -42,6 +42,23 @@ def relatorio_por_dia_com_variacoes(dia):
     crosstab_cidade_product = pd.crosstab(df_dia['City'], df_dia['Product line'])
     crosstab_cidade_payment = pd.crosstab([df_dia['City'], df_dia['Payment']], [df_dia['Gender']])
 
+    crosstab_cidade_tipo_cliente_antes = pd.crosstab(df_2_dias_antes['City'], df_2_dias_antes['Customer type'])
+    crosstab_cidade_genero_antes = pd.crosstab(
+        [df_2_dias_antes['City'], df_2_dias_antes['Gender']], [df_2_dias_antes['Customer type']]
+    )
+    crosstab_cidade_product_antes = pd.crosstab(df_2_dias_antes['City'], df_2_dias_antes['Product line'])
+    crosstab_cidade_payment_antes = pd.crosstab(
+        [df_2_dias_antes['City'], df_2_dias_antes['Payment']], [df_2_dias_antes['Gender']]
+    )
+
+    variacao_cidade_tipo_cliente = crosstab_cidade_tipo_cliente - crosstab_cidade_tipo_cliente_antes
+    variacao_cidade_genero = crosstab_cidade_genero - crosstab_cidade_genero_antes
+    variacao_cidade_product = crosstab_cidade_product - crosstab_cidade_product_antes
+    variacao_cidade_payment = crosstab_cidade_payment - crosstab_cidade_payment_antes
+
+
+
+
     return {
         "total_por_cidade": total_por_cidade,
         "variacao_cidade": variacao_cidade,
@@ -57,7 +74,12 @@ def relatorio_por_dia_com_variacoes(dia):
         "crosstab_cidade_genero": crosstab_cidade_genero,
         "crosstab_cidade_product": crosstab_cidade_product,
         "crosstab_cidade_payment": crosstab_cidade_payment,
+        "variacao_cidade_tipo_cliente": variacao_cidade_tipo_cliente,
+        "variacao_cidade_genero": variacao_cidade_genero,
+        "variacao_cidade_product": variacao_cidade_product,
+        "variacao_cidade_payment": variacao_cidade_payment,
     }
+
 
 st.set_page_config(layout="wide")
 # Configuração do título do aplicativo
@@ -69,6 +91,59 @@ dia_selecionado = st.sidebar.selectbox("Selecione uma data", dias_unicos)
 
 # Gerando o relatório para o dia selecionado
 relatorio = relatorio_por_dia_com_variacoes(pd.Timestamp(dia_selecionado))
+
+# Espaço para exibir alertas
+
+
+# Condições para os alertas
+alertas_positivos = []
+alertas_negativos = []
+
+# Condição 1: Cidades com vendas totais acima de 30.000 (positivo)
+cidades_acima_30000 = relatorio['total_por_cidade'][relatorio['total_por_cidade']['Total'] > 30000]
+if not cidades_acima_30000.empty:
+    cidades_str = ", ".join(cidades_acima_30000.index)
+    alertas_positivos.append(f"As cidades **{cidades_str}** ultrapassaram R$30.000 em vendas totais.")
+
+# Condição 2: Cidades com queda de mais de 30% nas vendas totais (negativo)
+variacao_percentual_cidade = (relatorio['variacao_cidade']['Total'] / relatorio['total_por_cidade']['Total']) * 100
+cidades_queda = variacao_percentual_cidade[variacao_percentual_cidade < -30]
+if not cidades_queda.empty:
+    cidades_str = ", ".join(cidades_queda.index)
+    alertas_negativos.append(f"As cidades **{cidades_str}** tiveram uma queda superior a 30% nas vendas.")
+
+# Condição 3: Método de pagamento "Pix" com aumento superior a 30% (positivo)
+if "Pix" in relatorio['variacao_payment'].index:
+    variacao_pix = relatorio['variacao_payment'].loc["Pix", "Total"]
+    total_anterior_pix = relatorio['total_por_payment'].loc["Pix", "Total"] - variacao_pix
+    if total_anterior_pix > 0 and (variacao_pix / total_anterior_pix) * 100 > 30:
+        alertas_positivos.append("O método de pagamento **Pix** apresentou um aumento superior a 30% nas vendas.")
+
+# Condição 4: Produtos vendidos mais de 400 vezes (positivo)
+produtos_acima_400 = relatorio['total_por_linha_produto'][relatorio['total_por_linha_produto']['Quantity'] > 400]
+if not produtos_acima_400.empty:
+    produtos_str = ", ".join(produtos_acima_400.index)
+    alertas_positivos.append(f"Os produtos **{produtos_str}** tiveram mais de 400 vendas.")
+
+# Exibir notificações na sidebar
+st.sidebar.subheader("Alertas do Dia")
+total_alertas = len(alertas_positivos) + len(alertas_negativos)
+
+if total_alertas > 0:
+    st.sidebar.error(f"🚨 {total_alertas} ALERTAS 🚨 ENCONTRADOS, ABRA O EXPANDER PARA MAIS DETALHES")
+else:
+    st.sidebar.info("Não há alertas para o dia selecionado.")
+
+
+
+# Exibir os alertas no expander
+with st.expander("Alertas Importantes", expanded=False, icon="🚨"):
+    for alerta in alertas_positivos:
+        st.success(alerta)
+    for alerta in alertas_negativos:
+        st.error(alerta)
+    if not alertas_positivos and not alertas_negativos:
+        st.info("Nenhum alerta foi gerado para o dia selecionado.")
 
 # Exibindo o relatório
 st.subheader(f"Relatório Detalhado de Vendas para o dia {dia_selecionado}")
@@ -122,13 +197,26 @@ with col1:
         st.plotly_chart(fig)
 with (col2):
     st.write("**Distribuição de Clientes por Cidade e Tipo:**")
-    st.dataframe(relatorio['crosstab_cidade_tipo_cliente'])
+    st.dataframe(pd.concat(
+        [relatorio["crosstab_cidade_tipo_cliente"], relatorio["variacao_cidade_tipo_cliente"].add_suffix(" (Var)")],
+        axis=1
+    ))
     with st.expander("Gráfico de Distribuição de Clientes por Cidade e Tipo"):
-        fig = px.bar(pd.concat([relatorio['crosstab_cidade_tipo_cliente']], axis=1), barmode='group')
+        fig = px.bar(
+            relatorio["crosstab_cidade_tipo_cliente"].reset_index().melt(id_vars="City"),
+            x="City",
+            y="value",
+            color="Customer type",
+            barmode="group",
+            title="Distribuição de Clientes por Cidade e Tipo",
+            labels={'value': 'Número de Clientes'}
+        )
         st.plotly_chart(fig)
 
     st.write("**Distribuição de Clientes por Cidade, Gênero e Tipo:**")
-    st.dataframe(relatorio['crosstab_cidade_genero'])
+    st.dataframe(pd.concat(
+        [relatorio["crosstab_cidade_genero"], relatorio["variacao_cidade_genero"].add_suffix(" (Var)")], axis=1
+    ))
 
     with st.expander("Gráfico de Distribuição de Clientes por Cidade, Gênero e Tipo"):
         # Convertendo a crosstab para um formato adequado para o Plotly
@@ -141,13 +229,19 @@ with (col2):
                      color='Customer type',
                      facet_col='Gender',  # Agrupa as barras por gênero
                      barmode='group',
-                     title='Distribuição de Clientes por Cidade, Gênero e Tipo')
+                     title='Distribuição de Clientes por Cidade, Gênero e Tipo',
+                     labels={'count': 'Número de Clientes'}
+                     )
+
 
         # Exibindo o gráfico no Streamlit
         st.plotly_chart(fig)
 
+
     st.write("**Distribuição de Clientes por Cidade e Produtos:**")
-    st.dataframe(relatorio['crosstab_cidade_product'])
+    st.dataframe(pd.concat(
+        [relatorio["crosstab_cidade_product"], relatorio["variacao_cidade_product"].add_suffix(" (Var)")], axis=1
+    ))
 
     with st.expander("Distribuição de Clientes por Cidade e Produto"):
         # Convertendo a crosstab para um formato adequado para o Plotly
@@ -156,14 +250,17 @@ with (col2):
         # Criando o gráfico de barras empilhadas
         fig = px.bar(df_plot, x='City', y='count', color='Product line',
                      barmode='stack',
-                     title='Distribuição de Clientes por Cidade e Produto')
+                     title='Distribuição de Clientes por Cidade e Produto',
+                     labels={'count': 'Número de Clientes'})
+
 
         # Exibindo o gráfico no Streamlit
         st.plotly_chart(fig)
 
-
     st.write("**Distribuição de Clientes por Cidade, Gênero e Pagamento:**")
-    st.dataframe(relatorio['crosstab_cidade_payment'])
+    st.dataframe(pd.concat(
+        [relatorio["crosstab_cidade_payment"], relatorio["variacao_cidade_payment"].add_suffix(" (Var)")], axis=1
+    ))
 
     with st.expander("Distribuição de Clientes por Cidade, Gênero e Pagamento"):
         # Convertendo a crosstab para um formato adequado para o Plotly
@@ -181,6 +278,5 @@ with (col2):
 
         fig.update_xaxes(tickangle=45)  # Rotaciona os rótulos do eixo x
         fig.update_layout(width=800, height=445)  # Ajusta o tamanho do gráfico
-
 
         st.plotly_chart(fig)
